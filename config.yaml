@@ -1,0 +1,22 @@
+# click-tt Tournament Watcher Konfiguration
+
+# Discord-Webhook (besser als GitHub-Secret DISCORD_WEBHOOK setzen)
+webhook: ""
+
+# Verband/Circuit - für den TTVN-Race Kalender
+federation: "TTVN"
+circuit: "TTVN-Race 26"
+
+# Wie viele Monate im Voraus zusätzlich zum aktuellen?
+# 3 = aktueller + 3 weitere = 4 Monate
+months_advance: 3
+
+# Watchlist: Namen der Spieler:innen, deren Anmeldungen gemeldet werden sollen.
+# Substring-Match, case-insensitive. Reihenfolge Vor-/Nachname egal.
+# Beispiele:
+#   - "Timo Rischer"        (findet "Rischer, Timo")
+#   - "Rischer"             (findet alle Rischers)
+#   - "Rischer, Timo"       (exakter Match)
+watchlist:
+  - "Timo Rischer"
+  - "Tomte Schäpker"
