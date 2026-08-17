@@ -53,15 +53,28 @@ def post_webhook(webhook_url: str, embeds: list = None, content: str = ""):
     req = urllib.request.Request(
         webhook_url,
         data=data,
-        headers={"Content-Type": "application/json"},
+        headers={
+            "Content-Type": "application/json",
+            "User-Agent": "clicktt-watcher (github.com/actions) Python-urllib/3.11",
+        },
         method="POST",
     )
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
             if resp.status >= 300:
-                print(f"WARN: Webhook returned {resp.status}")
+                body = resp.read().decode("utf-8", errors="replace")[:500]
+                print(f"WARN: Webhook returned {resp.status}: {body}")
+            else:
+                print(f"INFO: Webhook OK ({resp.status})")
+    except urllib.error.HTTPError as e:
+        body = ""
+        try:
+            body = e.read().decode("utf-8", errors="replace")[:500]
+        except Exception:
+            pass
+        print(f"WARN: Webhook fehlgeschlagen: HTTP {e.code}: {e.reason} — Body: {body}")
     except Exception as e:
-        print(f"WARN: Webhook fehlgeschlagen: {e}")
+        print(f"WARN: Webhook fehlgeschlagen: {type(e).__name__}: {e}")
 
 
 def load_state() -> dict:
