@@ -144,6 +144,15 @@
       "verein": "VfL Edewecht",
       "warteliste": "-"
     },
+    "793320": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 19.09.2026 14:00 Uhr",
+      "kapazitaet": "0/13",
+      "region": "Friesland/Wilhelmshaven",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=793320&date=2026-09-01",
+      "verein": "SG Cleverns-Sandel",
+      "warteliste": "8"
+    },
     "793984": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 14.08.2026 19:00 Uhr",
@@ -381,7 +390,7 @@
     "803503": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 14:00 Uhr",
-      "kapazitaet": "9/16",
+      "kapazitaet": "8/16",
       "region": "Cuxhaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=803503&date=2026-09-01",
       "verein": "TV Loxstedt",
