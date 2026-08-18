@@ -403,7 +403,7 @@
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=803746&date=2026-09-01",
       "verein": "VfB Oldenburg",
-      "warteliste": "4"
+      "warteliste": "5"
     },
     "803825": {
       "altersklasse": "Damen/Herren",
@@ -466,7 +466,7 @@
       "region": "Emden",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=804955&date=2026-08-01",
       "verein": "TV Greetsiel",
-      "warteliste": "3"
+      "warteliste": "2"
     },
     "805406": {
       "altersklasse": "Damen/Herren",
@@ -714,7 +714,7 @@
     "821421": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 22.08.2026 14:48 Uhr",
-      "kapazitaet": "2/13",
+      "kapazitaet": "3/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=821421&date=2026-08-01",
       "verein": "TTC Grün-Gelb Braunschweig",
@@ -853,7 +853,7 @@
       "region": "Harburg-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=822840&date=2026-08-01",
       "verein": "TSV Stelle",
-      "warteliste": "4"
+      "warteliste": "3"
     },
     "822841": {
       "altersklasse": "Damen/Herren",
@@ -1209,7 +1209,7 @@
     "827181": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 05.09.2026 13:00 Uhr",
-      "kapazitaet": "11/16",
+      "kapazitaet": "10/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827181&date=2026-09-01",
       "verein": "FTSV Jahn Brinkum",
@@ -1231,12 +1231,12 @@
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=828360&date=2026-08-01",
       "verein": "TuS Altwarmbüchen",
-      "warteliste": "1"
+      "warteliste": "2"
     },
     "829120": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 29.08.2026 14:00 Uhr",
-      "kapazitaet": "15/16",
+      "kapazitaet": "14/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=829120&date=2026-08-01",
       "verein": "TuR Eintracht Sengwarden",
@@ -1245,7 +1245,7 @@
     "829121": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 26.08.2026 19:30 Uhr",
-      "kapazitaet": "5/16",
+      "kapazitaet": "2/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=829121&date=2026-08-01",
       "verein": "TuR Eintracht Sengwarden",
@@ -1254,7 +1254,7 @@
     "829720": {
       "altersklasse": "Damen/Herren",
       "date": "Di. 25.08.2026 19:30 Uhr",
-      "kapazitaet": "1/13",
+      "kapazitaet": "0/13",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=829720&date=2026-08-01",
       "verein": "VfL Löningen",
@@ -1263,7 +1263,7 @@
     "829880": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 17:15 Uhr",
-      "kapazitaet": "10/16",
+      "kapazitaet": "9/16",
       "region": "Cuxhaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=829880&date=2026-09-01",
       "verein": "TV Loxstedt",
