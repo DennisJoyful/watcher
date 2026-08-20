@@ -471,7 +471,7 @@
     "805406": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 22.08.2026 11:00 Uhr",
-      "kapazitaet": "0/13",
+      "kapazitaet": "1/13",
       "region": "Leer",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=805406&date=2026-08-01",
       "verein": "FC Stern Völlenerfehn",
@@ -552,7 +552,7 @@
     "808181": {
       "altersklasse": "Damen/Herren",
       "date": "So. 06.09.2026 11:30 Uhr",
-      "kapazitaet": "1/13",
+      "kapazitaet": "0/13",
       "region": "Leer",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=808181&date=2026-09-01",
       "verein": "TV Oldersum",
@@ -696,7 +696,7 @@
     "821181": {
       "altersklasse": "Damen/Herren",
       "date": "So. 23.08.2026 17:00 Uhr",
-      "kapazitaet": "2/16",
+      "kapazitaet": "3/16",
       "region": "Osnabrück-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=821181&date=2026-08-01",
       "verein": "SC Glandorf",
@@ -727,7 +727,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=821422&date=2026-08-01",
       "verein": "TTC Grün-Gelb Braunschweig",
-      "warteliste": "1"
+      "warteliste": "2"
     },
     "821423": {
       "altersklasse": "Damen/Herren",
@@ -754,7 +754,7 @@
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=822040&date=2026-08-01",
       "verein": "TuS Zetel",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "822041": {
       "altersklasse": "Damen/Herren",
@@ -808,7 +808,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=822742&date=2026-08-01",
       "verein": "TSV Watenbüttel",
-      "warteliste": "3"
+      "warteliste": "4"
     },
     "822780": {
       "altersklasse": "Damen/Herren",
@@ -826,7 +826,7 @@
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=822781&date=2026-08-01",
       "verein": "ESV Hildesheim",
-      "warteliste": "6"
+      "warteliste": "7"
     },
     "822782": {
       "altersklasse": "Damen/Herren",
@@ -885,7 +885,7 @@
     "823122": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 29.08.2026 16:00 Uhr",
-      "kapazitaet": "13/16",
+      "kapazitaet": "12/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=823122&date=2026-08-01",
       "verein": "SV Arminia Vechelde",
@@ -930,11 +930,11 @@
     "825181": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 28.08.2026 19:00 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "0/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=825181&date=2026-08-01",
       "verein": "SV Arminia Vechelde",
-      "warteliste": "-"
+      "warteliste": "1"
     },
     "826581": {
       "altersklasse": "Damen/Herren",
@@ -1231,7 +1231,7 @@
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=828360&date=2026-08-01",
       "verein": "TuS Altwarmbüchen",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "829120": {
       "altersklasse": "Damen/Herren",
@@ -1245,7 +1245,7 @@
     "829121": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 26.08.2026 19:30 Uhr",
-      "kapazitaet": "2/16",
+      "kapazitaet": "1/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=829121&date=2026-08-01",
       "verein": "TuR Eintracht Sengwarden",
@@ -1335,7 +1335,7 @@
     "831020": {
       "altersklasse": "Damen/Herren",
       "date": "So. 13.09.2026 14:00 Uhr",
-      "kapazitaet": "14/16",
+      "kapazitaet": "13/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831020&date=2026-09-01",
       "verein": "MTV Jever",
@@ -1344,7 +1344,7 @@
     "831301": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 25.09.2026 19:00 Uhr",
-      "kapazitaet": "2/13",
+      "kapazitaet": "1/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831301&date=2026-09-01",
       "verein": "MTV Braunschweig",
@@ -1353,7 +1353,7 @@
     "831580": {
       "altersklasse": "Damen/Herren",
       "date": "Mo. 12.10.2026 19:00 Uhr",
-      "kapazitaet": "10/12",
+      "kapazitaet": "8/12",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831580&date=2026-10-01",
       "verein": "ESV Wolfenbüttel",
@@ -1362,7 +1362,7 @@
     "831581": {
       "altersklasse": "Damen/Herren",
       "date": "Mo. 19.10.2026 19:00 Uhr",
-      "kapazitaet": "9/12",
+      "kapazitaet": "6/12",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831581&date=2026-10-01",
       "verein": "ESV Wolfenbüttel",
@@ -1729,7 +1729,7 @@
       "watched_present": []
     },
     "822741": {
-      "all_participants_count": 0,
+      "all_participants_count": 16,
       "watched_present": []
     },
     "822742": {
@@ -1921,7 +1921,7 @@
       "watched_present": []
     },
     "828360": {
-      "all_participants_count": 0,
+      "all_participants_count": 16,
       "watched_present": []
     },
     "829120": {
