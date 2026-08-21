@@ -471,7 +471,7 @@
     "805406": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 22.08.2026 11:00 Uhr",
-      "kapazitaet": "3/13",
+      "kapazitaet": "4/13",
       "region": "Leer",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=805406&date=2026-08-01",
       "verein": "FC Stern Völlenerfehn",
@@ -648,33 +648,6 @@
       "verein": "SC Glandorf",
       "warteliste": "-"
     },
-    "820141": {
-      "altersklasse": "Damen/Herren",
-      "date": "Sa. 22.08.2026 10:00 Uhr",
-      "kapazitaet": "14/16",
-      "region": "Osnabrück-Land",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=820141&date=2026-08-01",
-      "verein": "SC Glandorf",
-      "warteliste": "-"
-    },
-    "820160": {
-      "altersklasse": "Damen/Herren",
-      "date": "Sa. 22.08.2026 13:30 Uhr",
-      "kapazitaet": "14/16",
-      "region": "Osnabrück-Land",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=820160&date=2026-08-01",
-      "verein": "SC Glandorf",
-      "warteliste": "-"
-    },
-    "820180": {
-      "altersklasse": "Damen/Herren",
-      "date": "Sa. 22.08.2026 17:00 Uhr",
-      "kapazitaet": "14/16",
-      "region": "Osnabrück-Land",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=820180&date=2026-08-01",
-      "verein": "SC Glandorf",
-      "warteliste": "-"
-    },
     "821160": {
       "altersklasse": "Damen/Herren",
       "date": "So. 23.08.2026 10:00 Uhr",
@@ -727,7 +700,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=821422&date=2026-08-01",
       "verein": "TTC Grün-Gelb Braunschweig",
-      "warteliste": "2"
+      "warteliste": "3"
     },
     "821423": {
       "altersklasse": "Damen/Herren",
@@ -849,7 +822,7 @@
     "823120": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 29.08.2026 10:00 Uhr",
-      "kapazitaet": "10/16",
+      "kapazitaet": "11/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=823120&date=2026-08-01",
       "verein": "SV Arminia Vechelde",
@@ -1231,7 +1204,7 @@
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=829121&date=2026-08-01",
       "verein": "TuR Eintracht Sengwarden",
-      "warteliste": "1"
+      "warteliste": "2"
     },
     "829720": {
       "altersklasse": "Damen/Herren",
@@ -1353,7 +1326,7 @@
     "832020": {
       "altersklasse": "Damen/Herren",
       "date": "So. 04.10.2026 10:00 Uhr",
-      "kapazitaet": "8/13",
+      "kapazitaet": "7/13",
       "region": "Ammerland",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832020&date=2026-10-01",
       "verein": "VfL Edewecht",
@@ -1362,7 +1335,7 @@
     "832021": {
       "altersklasse": "Damen/Herren",
       "date": "So. 04.10.2026 13:30 Uhr",
-      "kapazitaet": "9/16",
+      "kapazitaet": "8/16",
       "region": "Ammerland",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832021&date=2026-10-01",
       "verein": "VfL Edewecht",
@@ -1371,7 +1344,7 @@
     "832060": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 26.08.2026 19:45 Uhr",
-      "kapazitaet": "5/16",
+      "kapazitaet": "3/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832060&date=2026-08-01",
       "verein": "TuS Altwarmbüchen",
@@ -1380,7 +1353,7 @@
     "832220": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 10:00 Uhr",
-      "kapazitaet": "16/16",
+      "kapazitaet": "14/16",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832220&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
@@ -1389,7 +1362,7 @@
     "832221": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 13:30 Uhr",
-      "kapazitaet": "15/16",
+      "kapazitaet": "13/16",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832221&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
@@ -1398,7 +1371,7 @@
     "832240": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 17:00 Uhr",
-      "kapazitaet": "16/16",
+      "kapazitaet": "14/16",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832240&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
@@ -1587,7 +1560,7 @@
       "watched_present": []
     },
     "801708": {
-      "all_participants_count": 0,
+      "all_participants_count": 9,
       "watched_present": []
     },
     "801709": {
@@ -1715,18 +1688,6 @@
       "watched_present": []
     },
     "819560": {
-      "all_participants_count": 0,
-      "watched_present": []
-    },
-    "820141": {
-      "all_participants_count": 0,
-      "watched_present": []
-    },
-    "820160": {
-      "all_participants_count": 0,
-      "watched_present": []
-    },
-    "820180": {
       "all_participants_count": 0,
       "watched_present": []
     },
