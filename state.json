@@ -322,7 +322,7 @@
       "region": "Schaumburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=800072&date=2026-09-01",
       "verein": "TuS Kreuzriehe-Helsinghausen",
-      "warteliste": "2"
+      "warteliste": "3"
     },
     "800073": {
       "altersklasse": "Damen/Herren",
@@ -669,7 +669,7 @@
     "821181": {
       "altersklasse": "Damen/Herren",
       "date": "So. 23.08.2026 17:00 Uhr",
-      "kapazitaet": "2/16",
+      "kapazitaet": "1/16",
       "region": "Osnabrück-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=821181&date=2026-08-01",
       "verein": "SC Glandorf",
@@ -912,7 +912,7 @@
     "826583": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 16:00 Uhr",
-      "kapazitaet": "8/16",
+      "kapazitaet": "7/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826583&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
@@ -1213,7 +1213,7 @@
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=829720&date=2026-08-01",
       "verein": "VfL Löningen",
-      "warteliste": "1"
+      "warteliste": "2"
     },
     "829880": {
       "altersklasse": "Damen/Herren",
