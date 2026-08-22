@@ -214,7 +214,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798704&date=2026-08-01",
       "verein": "TSV Rüningen",
-      "warteliste": "4"
+      "warteliste": "3"
     },
     "798705": {
       "altersklasse": "Damen/Herren",
@@ -223,7 +223,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798705&date=2026-08-01",
       "verein": "TSV Rüningen",
-      "warteliste": "4"
+      "warteliste": "3"
     },
     "798706": {
       "altersklasse": "Damen/Herren",
@@ -390,7 +390,7 @@
     "803503": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 14:00 Uhr",
-      "kapazitaet": "2/16",
+      "kapazitaet": "1/16",
       "region": "Cuxhaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=803503&date=2026-09-01",
       "verein": "TV Loxstedt",
@@ -457,7 +457,7 @@
       "region": "Emden",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=804953&date=2026-08-01",
       "verein": "TV Greetsiel",
-      "warteliste": "2"
+      "warteliste": "-"
     },
     "804955": {
       "altersklasse": "Damen/Herren",
@@ -466,7 +466,7 @@
       "region": "Emden",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=804955&date=2026-08-01",
       "verein": "TV Greetsiel",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "805406": {
       "altersklasse": "Damen/Herren",
@@ -651,7 +651,7 @@
     "821160": {
       "altersklasse": "Damen/Herren",
       "date": "So. 23.08.2026 10:00 Uhr",
-      "kapazitaet": "12/16",
+      "kapazitaet": "13/16",
       "region": "Osnabrück-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=821160&date=2026-08-01",
       "verein": "SC Glandorf",
@@ -669,7 +669,7 @@
     "821181": {
       "altersklasse": "Damen/Herren",
       "date": "So. 23.08.2026 17:00 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "0/16",
       "region": "Osnabrück-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=821181&date=2026-08-01",
       "verein": "SC Glandorf",
@@ -687,7 +687,7 @@
     "821421": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 22.08.2026 14:48 Uhr",
-      "kapazitaet": "2/13",
+      "kapazitaet": "1/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=821421&date=2026-08-01",
       "verein": "TTC Grün-Gelb Braunschweig",
@@ -714,7 +714,7 @@
     "822040": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 22.08.2026 14:00 Uhr",
-      "kapazitaet": "0/16",
+      "kapazitaet": "1/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=822040&date=2026-08-01",
       "verein": "TuS Zetel",
@@ -723,7 +723,7 @@
     "822180": {
       "altersklasse": "Damen/Herren",
       "date": "So. 25.10.2026 10:00 Uhr",
-      "kapazitaet": "1/11",
+      "kapazitaet": "0/11",
       "region": "Osnabrück-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=822180&date=2026-10-01",
       "verein": "SC Glandorf",
@@ -732,7 +732,7 @@
     "822381": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 29.08.2026 13:30 Uhr",
-      "kapazitaet": "7/16",
+      "kapazitaet": "6/16",
       "region": "Verden",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=822381&date=2026-08-01",
       "verein": "Turn- und Sportverein Ottersberg",
@@ -741,7 +741,7 @@
     "822382": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 29.08.2026 17:00 Uhr",
-      "kapazitaet": "8/16",
+      "kapazitaet": "6/16",
       "region": "Verden",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=822382&date=2026-08-01",
       "verein": "Turn- und Sportverein Ottersberg",
@@ -880,7 +880,7 @@
       "region": "Osnabrück-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=825180&date=2026-10-01",
       "verein": "SC Glandorf",
-      "warteliste": "1"
+      "warteliste": "2"
     },
     "825181": {
       "altersklasse": "Damen/Herren",
@@ -1344,7 +1344,7 @@
     "832060": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 26.08.2026 19:45 Uhr",
-      "kapazitaet": "3/16",
+      "kapazitaet": "2/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832060&date=2026-08-01",
       "verein": "TuS Altwarmbüchen",
@@ -1393,6 +1393,24 @@
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832242&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
+      "warteliste": "-"
+    },
+    "832660": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 29.08.2026 12:00 Uhr",
+      "kapazitaet": "13/13",
+      "region": "Oldenburg-Stadt",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832660&date=2026-08-01",
+      "verein": "Tischtennis Fortuna Oldenburg 25",
+      "warteliste": "-"
+    },
+    "832700": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 29.08.2026 09:00 Uhr",
+      "kapazitaet": "12/13",
+      "region": "Oldenburg-Stadt",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832700&date=2026-08-01",
+      "verein": "Tischtennis Fortuna Oldenburg 25",
       "warteliste": "-"
     }
   },
@@ -1612,7 +1630,7 @@
       "watched_present": []
     },
     "805406": {
-      "all_participants_count": 0,
+      "all_participants_count": 9,
       "watched_present": []
     },
     "805759": {
@@ -2020,6 +2038,14 @@
       "watched_present": []
     },
     "832242": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "832660": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "832700": {
       "all_participants_count": 0,
       "watched_present": []
     }
