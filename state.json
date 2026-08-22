@@ -151,7 +151,7 @@
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=793320&date=2026-09-01",
       "verein": "SG Cleverns-Sandel",
-      "warteliste": "7"
+      "warteliste": "8"
     },
     "793984": {
       "altersklasse": "Damen/Herren",
@@ -232,7 +232,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798706&date=2026-09-01",
       "verein": "TSV Rüningen",
-      "warteliste": "-"
+      "warteliste": "1"
     },
     "798707": {
       "altersklasse": "Damen/Herren",
@@ -241,7 +241,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798707&date=2026-09-01",
       "verein": "TSV Rüningen",
-      "warteliste": "1"
+      "warteliste": "2"
     },
     "798708": {
       "altersklasse": "Damen/Herren",
@@ -268,7 +268,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798711&date=2026-10-01",
       "verein": "TSV Rüningen",
-      "warteliste": "6"
+      "warteliste": "7"
     },
     "798712": {
       "altersklasse": "Damen/Herren",
@@ -489,7 +489,7 @@
     "805760": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 05.09.2026 14:00 Uhr",
-      "kapazitaet": "6/13",
+      "kapazitaet": "5/13",
       "region": "Leer",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=805760&date=2026-09-01",
       "verein": "TV Oldersum",
@@ -648,28 +648,10 @@
       "verein": "SC Glandorf",
       "warteliste": "-"
     },
-    "821160": {
-      "altersklasse": "Damen/Herren",
-      "date": "So. 23.08.2026 10:00 Uhr",
-      "kapazitaet": "13/16",
-      "region": "Osnabrück-Land",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=821160&date=2026-08-01",
-      "verein": "SC Glandorf",
-      "warteliste": "-"
-    },
-    "821180": {
-      "altersklasse": "Damen/Herren",
-      "date": "So. 23.08.2026 13:30 Uhr",
-      "kapazitaet": "13/16",
-      "region": "Osnabrück-Land",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=821180&date=2026-08-01",
-      "verein": "SC Glandorf",
-      "warteliste": "-"
-    },
     "821181": {
       "altersklasse": "Damen/Herren",
       "date": "So. 23.08.2026 17:00 Uhr",
-      "kapazitaet": "0/16",
+      "kapazitaet": "1/16",
       "region": "Osnabrück-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=821181&date=2026-08-01",
       "verein": "SC Glandorf",
@@ -678,7 +660,7 @@
     "821420": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 22.08.2026 11:48 Uhr",
-      "kapazitaet": "1/13",
+      "kapazitaet": "5/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=821420&date=2026-08-01",
       "verein": "TTC Grün-Gelb Braunschweig",
@@ -687,7 +669,7 @@
     "821421": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 22.08.2026 14:48 Uhr",
-      "kapazitaet": "1/13",
+      "kapazitaet": "4/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=821421&date=2026-08-01",
       "verein": "TTC Grün-Gelb Braunschweig",
@@ -714,7 +696,7 @@
     "822040": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 22.08.2026 14:00 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "2/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=822040&date=2026-08-01",
       "verein": "TuS Zetel",
@@ -781,7 +763,7 @@
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=822781&date=2026-08-01",
       "verein": "ESV Hildesheim",
-      "warteliste": "8"
+      "warteliste": "7"
     },
     "822782": {
       "altersklasse": "Damen/Herren",
@@ -790,7 +772,7 @@
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=822782&date=2026-08-01",
       "verein": "ESV Hildesheim",
-      "warteliste": "4"
+      "warteliste": "5"
     },
     "822821": {
       "altersklasse": "Damen/Herren",
@@ -831,7 +813,7 @@
     "823121": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 29.08.2026 13:00 Uhr",
-      "kapazitaet": "8/16",
+      "kapazitaet": "7/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=823121&date=2026-08-01",
       "verein": "SV Arminia Vechelde",
@@ -984,7 +966,7 @@
     "827060": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 12.09.2026 12:03 Uhr",
-      "kapazitaet": "5/13",
+      "kapazitaet": "4/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827060&date=2026-09-01",
       "verein": "TTC Grün-Gelb Braunschweig",
@@ -993,7 +975,7 @@
     "827061": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 12.09.2026 15:02 Uhr",
-      "kapazitaet": "8/13",
+      "kapazitaet": "7/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827061&date=2026-09-01",
       "verein": "TTC Grün-Gelb Braunschweig",
@@ -1002,7 +984,7 @@
     "827063": {
       "altersklasse": "Damen/Herren",
       "date": "So. 13.09.2026 11:58 Uhr",
-      "kapazitaet": "7/13",
+      "kapazitaet": "6/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827063&date=2026-09-01",
       "verein": "TTC Grün-Gelb Braunschweig",
@@ -1011,7 +993,7 @@
     "827064": {
       "altersklasse": "Damen/Herren",
       "date": "So. 13.09.2026 14:59 Uhr",
-      "kapazitaet": "6/13",
+      "kapazitaet": "5/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827064&date=2026-09-01",
       "verein": "TTC Grün-Gelb Braunschweig",
@@ -1204,7 +1186,7 @@
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=829121&date=2026-08-01",
       "verein": "TuR Eintracht Sengwarden",
-      "warteliste": "2"
+      "warteliste": "3"
     },
     "829720": {
       "altersklasse": "Damen/Herren",
@@ -1290,7 +1272,7 @@
     "831020": {
       "altersklasse": "Damen/Herren",
       "date": "So. 13.09.2026 14:00 Uhr",
-      "kapazitaet": "6/16",
+      "kapazitaet": "4/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831020&date=2026-09-01",
       "verein": "MTV Jever",
@@ -1344,7 +1326,7 @@
     "832060": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 26.08.2026 19:45 Uhr",
-      "kapazitaet": "2/16",
+      "kapazitaet": "1/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832060&date=2026-08-01",
       "verein": "TuS Altwarmbüchen",
@@ -1353,7 +1335,7 @@
     "832220": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 10:00 Uhr",
-      "kapazitaet": "13/16",
+      "kapazitaet": "12/16",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832220&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
@@ -1362,7 +1344,7 @@
     "832221": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 13:30 Uhr",
-      "kapazitaet": "12/16",
+      "kapazitaet": "11/16",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832221&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
@@ -1709,24 +1691,16 @@
       "all_participants_count": 12,
       "watched_present": []
     },
-    "821160": {
-      "all_participants_count": 0,
-      "watched_present": []
-    },
-    "821180": {
-      "all_participants_count": 0,
-      "watched_present": []
-    },
     "821181": {
       "all_participants_count": 0,
       "watched_present": []
     },
     "821420": {
-      "all_participants_count": 0,
+      "all_participants_count": 8,
       "watched_present": []
     },
     "821421": {
-      "all_participants_count": 0,
+      "all_participants_count": 9,
       "watched_present": []
     },
     "821422": {
@@ -1738,7 +1712,7 @@
       "watched_present": []
     },
     "822040": {
-      "all_participants_count": 0,
+      "all_participants_count": 14,
       "watched_present": []
     },
     "822180": {
