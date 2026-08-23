@@ -1195,7 +1195,7 @@
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=829720&date=2026-08-01",
       "verein": "VfL Löningen",
-      "warteliste": "2"
+      "warteliste": "3"
     },
     "829880": {
       "altersklasse": "Damen/Herren",
@@ -1330,7 +1330,7 @@
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832060&date=2026-08-01",
       "verein": "TuS Altwarmbüchen",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "832220": {
       "altersklasse": "Damen/Herren",
