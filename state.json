@@ -696,7 +696,7 @@
     "822382": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 29.08.2026 17:00 Uhr",
-      "kapazitaet": "6/16",
+      "kapazitaet": "7/16",
       "region": "Verden",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=822382&date=2026-08-01",
       "verein": "Turn- und Sportverein Ottersberg",
@@ -714,7 +714,7 @@
     "822742": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 26.08.2026 20:00 Uhr",
-      "kapazitaet": "0/16",
+      "kapazitaet": "2/16",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=822742&date=2026-08-01",
       "verein": "TSV Watenbüttel",
@@ -885,7 +885,7 @@
     "826585": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 31.10.2026 13:00 Uhr",
-      "kapazitaet": "7/16",
+      "kapazitaet": "6/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826585&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
@@ -1168,7 +1168,7 @@
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=829720&date=2026-08-01",
       "verein": "VfL Löningen",
-      "warteliste": "3"
+      "warteliste": "2"
     },
     "829880": {
       "altersklasse": "Damen/Herren",
@@ -1303,7 +1303,7 @@
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832060&date=2026-08-01",
       "verein": "TuS Altwarmbüchen",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "832220": {
       "altersklasse": "Damen/Herren",
@@ -1398,7 +1398,7 @@
     "832821": {
       "altersklasse": "Damen/Herren",
       "date": "Mo. 14.09.2026 19:30 Uhr",
-      "kapazitaet": "7/11",
+      "kapazitaet": "6/11",
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832821&date=2026-09-01",
       "verein": "ESV Hildesheim",
@@ -1411,15 +1411,6 @@
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832840&date=2026-10-01",
       "verein": "ESV Hildesheim",
-      "warteliste": "-"
-    },
-    "833100": {
-      "altersklasse": "Damen/Herren",
-      "date": "Sa. 26.09.2026 10:00 Uhr",
-      "kapazitaet": "16/16",
-      "region": "Hannover",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833100&date=2026-09-01",
-      "verein": "SV Adler Hämelerwald",
       "warteliste": "-"
     },
     "833540": {
@@ -2136,10 +2127,6 @@
       "watched_present": []
     },
     "832840": {
-      "all_participants_count": 0,
-      "watched_present": []
-    },
-    "833100": {
       "all_participants_count": 0,
       "watched_present": []
     },
