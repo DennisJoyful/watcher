@@ -214,7 +214,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798704&date=2026-08-01",
       "verein": "TSV Rüningen",
-      "warteliste": "2"
+      "warteliste": "1"
     },
     "798705": {
       "altersklasse": "Damen/Herren",
@@ -462,7 +462,7 @@
     "804955": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 29.08.2026 19:00 Uhr",
-      "kapazitaet": "0/11",
+      "kapazitaet": "1/11",
       "region": "Emden",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=804955&date=2026-08-01",
       "verein": "TV Greetsiel",
@@ -1182,7 +1182,7 @@
     "830201": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 29.08.2026 17:00 Uhr",
-      "kapazitaet": "12/13",
+      "kapazitaet": "11/13",
       "region": "Heidekreis",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830201&date=2026-08-01",
       "verein": "MTV Soltau",
@@ -1308,7 +1308,7 @@
     "832220": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 10:00 Uhr",
-      "kapazitaet": "10/16",
+      "kapazitaet": "9/16",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832220&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
@@ -1317,7 +1317,7 @@
     "832221": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 13:30 Uhr",
-      "kapazitaet": "8/16",
+      "kapazitaet": "7/16",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832221&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
@@ -1326,7 +1326,7 @@
     "832240": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 17:00 Uhr",
-      "kapazitaet": "13/16",
+      "kapazitaet": "12/16",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832240&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
@@ -1434,7 +1434,7 @@
     "833541": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 10.10.2026 14:00 Uhr",
-      "kapazitaet": "14/16",
+      "kapazitaet": "13/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833541&date=2026-10-01",
       "verein": "TuS Zetel",
