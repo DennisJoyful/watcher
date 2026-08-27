@@ -210,7 +210,7 @@
     "798704": {
       "altersklasse": "Damen/Herren",
       "date": "So. 30.08.2026 12:00 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "0/16",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798704&date=2026-08-01",
       "verein": "TSV Rüningen",
@@ -322,12 +322,12 @@
       "region": "Schaumburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=800072&date=2026-09-01",
       "verein": "TuS Kreuzriehe-Helsinghausen",
-      "warteliste": "2"
+      "warteliste": "3"
     },
     "800073": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 10:30 Uhr",
-      "kapazitaet": "1/13",
+      "kapazitaet": "0/13",
       "region": "Schaumburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=800073&date=2026-09-01",
       "verein": "TuS Kreuzriehe-Helsinghausen",
@@ -462,7 +462,7 @@
     "804955": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 29.08.2026 19:00 Uhr",
-      "kapazitaet": "3/11",
+      "kapazitaet": "4/11",
       "region": "Emden",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=804955&date=2026-08-01",
       "verein": "TV Greetsiel",
@@ -714,7 +714,7 @@
     "822742": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 26.08.2026 20:00 Uhr",
-      "kapazitaet": "2/16",
+      "kapazitaet": "3/16",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=822742&date=2026-08-01",
       "verein": "TSV Watenbüttel",
@@ -745,7 +745,7 @@
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=822782&date=2026-08-01",
       "verein": "ESV Hildesheim",
-      "warteliste": "4"
+      "warteliste": "3"
     },
     "822821": {
       "altersklasse": "Damen/Herren",
@@ -844,7 +844,7 @@
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=825181&date=2026-08-01",
       "verein": "SV Arminia Vechelde",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "826581": {
       "altersklasse": "Damen/Herren",
@@ -1146,7 +1146,7 @@
     "829120": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 29.08.2026 14:00 Uhr",
-      "kapazitaet": "14/16",
+      "kapazitaet": "13/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=829120&date=2026-08-01",
       "verein": "TuR Eintracht Sengwarden",
@@ -1159,7 +1159,7 @@
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=829121&date=2026-08-01",
       "verein": "TuR Eintracht Sengwarden",
-      "warteliste": "2"
+      "warteliste": "-"
     },
     "829720": {
       "altersklasse": "Damen/Herren",
@@ -1819,7 +1819,7 @@
       "watched_present": []
     },
     "822742": {
-      "all_participants_count": 0,
+      "all_participants_count": 13,
       "watched_present": []
     },
     "822780": {
@@ -2015,7 +2015,7 @@
       "watched_present": []
     },
     "829121": {
-      "all_participants_count": 0,
+      "all_participants_count": 16,
       "watched_present": []
     },
     "829720": {
@@ -2082,7 +2082,7 @@
       "watched_present": []
     },
     "832060": {
-      "all_participants_count": 0,
+      "all_participants_count": 16,
       "watched_present": []
     },
     "832220": {
