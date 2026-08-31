@@ -394,7 +394,7 @@
       "region": "Cuxhaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=803503&date=2026-09-01",
       "verein": "TV Loxstedt",
-      "warteliste": "1"
+      "warteliste": "2"
     },
     "803746": {
       "altersklasse": "Damen/Herren",
@@ -1119,7 +1119,7 @@
     "829880": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 17:15 Uhr",
-      "kapazitaet": "5/16",
+      "kapazitaet": "4/16",
       "region": "Cuxhaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=829880&date=2026-09-01",
       "verein": "TV Loxstedt",
@@ -1290,7 +1290,7 @@
     "832680": {
       "altersklasse": "Damen/Herren",
       "date": "So. 06.09.2026 14:15 Uhr",
-      "kapazitaet": "7/16",
+      "kapazitaet": "6/16",
       "region": "Osnabrück-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832680&date=2026-09-01",
       "verein": "SF Oesede",
@@ -1308,7 +1308,7 @@
     "832740": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 10:00 Uhr",
-      "kapazitaet": "13/16",
+      "kapazitaet": "12/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832740&date=2026-10-01",
       "verein": "FTSV Jahn Brinkum",
@@ -1317,7 +1317,7 @@
     "832742": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 13:00 Uhr",
-      "kapazitaet": "11/16",
+      "kapazitaet": "10/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832742&date=2026-10-01",
       "verein": "FTSV Jahn Brinkum",
@@ -1461,7 +1461,7 @@
     "835520": {
       "altersklasse": "Damen/Herren",
       "date": "So. 06.09.2026 10:00 Uhr",
-      "kapazitaet": "12/16",
+      "kapazitaet": "10/16",
       "region": "Lüneburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=835520&date=2026-09-01",
       "verein": "TuS Hohnstorf/Elbe",
@@ -1470,7 +1470,7 @@
     "835540": {
       "altersklasse": "Damen/Herren",
       "date": "So. 06.09.2026 13:30 Uhr",
-      "kapazitaet": "8/16",
+      "kapazitaet": "6/16",
       "region": "Lüneburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=835540&date=2026-09-01",
       "verein": "TuS Hohnstorf/Elbe",
@@ -1488,7 +1488,7 @@
     "836160": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 04.09.2026 20:30 Uhr",
-      "kapazitaet": "9/13",
+      "kapazitaet": "10/13",
       "region": "Ems-Vechte",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=836160&date=2026-09-01",
       "verein": "TV Meppen",
