@@ -16,7 +16,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798706&date=2026-09-01",
       "verein": "TSV Rüningen",
-      "warteliste": "5"
+      "warteliste": "6"
     },
     "798707": {
       "altersklasse": "Damen/Herren",
@@ -34,7 +34,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798708&date=2026-09-01",
       "verein": "TSV Rüningen",
-      "warteliste": "6"
+      "warteliste": "5"
     },
     "798709": {
       "altersklasse": "Damen/Herren",
@@ -52,7 +52,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798711&date=2026-10-01",
       "verein": "TSV Rüningen",
-      "warteliste": "5"
+      "warteliste": "4"
     },
     "798712": {
       "altersklasse": "Damen/Herren",
@@ -66,7 +66,7 @@
     "798941": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 05.09.2026 14:30 Uhr",
-      "kapazitaet": "5/13",
+      "kapazitaet": "6/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798941&date=2026-09-01",
       "verein": "TTV Kantenball Atzum",
@@ -106,7 +106,7 @@
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=803746&date=2026-09-01",
       "verein": "VfB Oldenburg",
-      "warteliste": "-"
+      "warteliste": "1"
     },
     "808180": {
       "altersklasse": "Damen/Herren",
@@ -286,12 +286,12 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827060&date=2026-09-01",
       "verein": "TTC Grün-Gelb Braunschweig",
-      "warteliste": "2"
+      "warteliste": "3"
     },
     "827061": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 12.09.2026 15:02 Uhr",
-      "kapazitaet": "0/13",
+      "kapazitaet": "1/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827061&date=2026-09-01",
       "verein": "TTC Grün-Gelb Braunschweig",
@@ -444,7 +444,7 @@
     "827180": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 05.09.2026 10:00 Uhr",
-      "kapazitaet": "3/16",
+      "kapazitaet": "1/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827180&date=2026-09-01",
       "verein": "FTSV Jahn Brinkum",
@@ -457,7 +457,7 @@
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827181&date=2026-09-01",
       "verein": "FTSV Jahn Brinkum",
-      "warteliste": "-"
+      "warteliste": "1"
     },
     "829880": {
       "altersklasse": "Damen/Herren",
@@ -624,7 +624,7 @@
     "832680": {
       "altersklasse": "Damen/Herren",
       "date": "So. 06.09.2026 14:15 Uhr",
-      "kapazitaet": "5/16",
+      "kapazitaet": "6/16",
       "region": "Osnabrück-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832680&date=2026-09-01",
       "verein": "SF Oesede",
@@ -813,7 +813,7 @@
     "836160": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 04.09.2026 20:30 Uhr",
-      "kapazitaet": "5/13",
+      "kapazitaet": "6/13",
       "region": "Ems-Vechte",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=836160&date=2026-09-01",
       "verein": "TV Meppen",
@@ -822,7 +822,7 @@
     "836161": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 11.09.2026 20:30 Uhr",
-      "kapazitaet": "13/13",
+      "kapazitaet": "9/13",
       "region": "Ems-Vechte",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=836161&date=2026-09-01",
       "verein": "TV Meppen",
@@ -831,7 +831,7 @@
     "837080": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 12.09.2026 15:00 Uhr",
-      "kapazitaet": "13/13",
+      "kapazitaet": "12/13",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=837080&date=2026-09-01",
       "verein": "SV Büppel",
@@ -840,7 +840,7 @@
     "837982": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 14.10.2026 19:00 Uhr",
-      "kapazitaet": "16/16",
+      "kapazitaet": "14/16",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=837982&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
@@ -849,7 +849,7 @@
     "838000": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 21.10.2026 19:00 Uhr",
-      "kapazitaet": "16/16",
+      "kapazitaet": "14/16",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=838000&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
@@ -858,7 +858,7 @@
     "838220": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 11.09.2026 19:00 Uhr",
-      "kapazitaet": "14/16",
+      "kapazitaet": "13/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=838220&date=2026-09-01",
       "verein": "SV Arminia Vechelde",
@@ -867,7 +867,7 @@
     "838221": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 18.09.2026 19:00 Uhr",
-      "kapazitaet": "15/16",
+      "kapazitaet": "13/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=838221&date=2026-09-01",
       "verein": "SV Arminia Vechelde",
