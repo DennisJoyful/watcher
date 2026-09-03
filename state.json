@@ -120,7 +120,7 @@
     "808181": {
       "altersklasse": "Damen/Herren",
       "date": "So. 06.09.2026 11:30 Uhr",
-      "kapazitaet": "4/13",
+      "kapazitaet": "6/13",
       "region": "Leer",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=808181&date=2026-09-01",
       "verein": "TV Oldersum",
@@ -774,15 +774,6 @@
       "verein": "SV Adler Hämelerwald",
       "warteliste": "-"
     },
-    "834960": {
-      "altersklasse": "Damen/Herren",
-      "date": "So. 06.09.2026 09:30 Uhr",
-      "kapazitaet": "16/16",
-      "region": "Osnabrück-Land",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=834960&date=2026-09-01",
-      "verein": "SF Oesede",
-      "warteliste": "-"
-    },
     "835520": {
       "altersklasse": "Damen/Herren",
       "date": "So. 06.09.2026 10:00 Uhr",
@@ -822,7 +813,7 @@
     "836161": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 11.09.2026 20:30 Uhr",
-      "kapazitaet": "9/13",
+      "kapazitaet": "7/13",
       "region": "Ems-Vechte",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=836161&date=2026-09-01",
       "verein": "TV Meppen",
@@ -1216,10 +1207,6 @@
       "watched_present": []
     },
     "834520": {
-      "all_participants_count": 0,
-      "watched_present": []
-    },
-    "834960": {
       "all_participants_count": 0,
       "watched_present": []
     },
