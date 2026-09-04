@@ -16,7 +16,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798706&date=2026-09-01",
       "verein": "TSV Rüningen",
-      "warteliste": "2"
+      "warteliste": "1"
     },
     "798707": {
       "altersklasse": "Damen/Herren",
@@ -376,33 +376,6 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827121&date=2026-10-01",
       "verein": "TTC Grün-Gelb Braunschweig",
-      "warteliste": "-"
-    },
-    "827160": {
-      "altersklasse": "Damen/Herren",
-      "date": "Sa. 05.09.2026 10:00 Uhr",
-      "kapazitaet": "14/16",
-      "region": "Peine",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827160&date=2026-09-01",
-      "verein": "SV Arminia Vechelde",
-      "warteliste": "-"
-    },
-    "827161": {
-      "altersklasse": "Damen/Herren",
-      "date": "Sa. 05.09.2026 13:00 Uhr",
-      "kapazitaet": "13/16",
-      "region": "Peine",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827161&date=2026-09-01",
-      "verein": "SV Arminia Vechelde",
-      "warteliste": "-"
-    },
-    "827162": {
-      "altersklasse": "Damen/Herren",
-      "date": "Sa. 05.09.2026 16:00 Uhr",
-      "kapazitaet": "13/16",
-      "region": "Peine",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827162&date=2026-09-01",
-      "verein": "SV Arminia Vechelde",
       "warteliste": "-"
     },
     "827163": {
@@ -1040,18 +1013,6 @@
       "watched_present": []
     },
     "827121": {
-      "all_participants_count": 0,
-      "watched_present": []
-    },
-    "827160": {
-      "all_participants_count": 0,
-      "watched_present": []
-    },
-    "827161": {
-      "all_participants_count": 0,
-      "watched_present": []
-    },
-    "827162": {
       "all_participants_count": 0,
       "watched_present": []
     },
