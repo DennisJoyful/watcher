@@ -16,7 +16,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798706&date=2026-09-01",
       "verein": "TSV Rüningen",
-      "warteliste": "3"
+      "warteliste": "2"
     },
     "798707": {
       "altersklasse": "Damen/Herren",
@@ -120,7 +120,7 @@
     "808182": {
       "altersklasse": "Damen/Herren",
       "date": "So. 06.09.2026 15:00 Uhr",
-      "kapazitaet": "6/13",
+      "kapazitaet": "7/13",
       "region": "Leer",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=808182&date=2026-09-01",
       "verein": "TV Oldersum",
@@ -435,7 +435,7 @@
     "827180": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 05.09.2026 10:00 Uhr",
-      "kapazitaet": "3/16",
+      "kapazitaet": "4/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827180&date=2026-09-01",
       "verein": "FTSV Jahn Brinkum",
@@ -444,7 +444,7 @@
     "827181": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 05.09.2026 13:00 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "2/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827181&date=2026-09-01",
       "verein": "FTSV Jahn Brinkum",
@@ -646,7 +646,7 @@
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832820&date=2026-09-01",
       "verein": "ESV Hildesheim",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "832821": {
       "altersklasse": "Damen/Herren",
@@ -795,7 +795,7 @@
     "836161": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 11.09.2026 20:30 Uhr",
-      "kapazitaet": "7/13",
+      "kapazitaet": "6/13",
       "region": "Ems-Vechte",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=836161&date=2026-09-01",
       "verein": "TV Meppen",
@@ -849,7 +849,7 @@
     "839620": {
       "altersklasse": "Damen/Herren",
       "date": "So. 18.10.2026 14:00 Uhr",
-      "kapazitaet": "15/16",
+      "kapazitaet": "10/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=839620&date=2026-10-01",
       "verein": "MTV Jever",
