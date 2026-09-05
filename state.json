@@ -16,7 +16,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798706&date=2026-09-01",
       "verein": "TSV Rüningen",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "798707": {
       "altersklasse": "Damen/Herren",
@@ -25,7 +25,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798707&date=2026-09-01",
       "verein": "TSV Rüningen",
-      "warteliste": "3"
+      "warteliste": "1"
     },
     "798708": {
       "altersklasse": "Damen/Herren",
@@ -210,7 +210,7 @@
     "826584": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 31.10.2026 10:00 Uhr",
-      "kapazitaet": "2/16",
+      "kapazitaet": "1/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826584&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
@@ -219,7 +219,7 @@
     "826585": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 31.10.2026 13:00 Uhr",
-      "kapazitaet": "6/16",
+      "kapazitaet": "5/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826585&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
@@ -228,7 +228,7 @@
     "826600": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 31.10.2026 16:00 Uhr",
-      "kapazitaet": "7/16",
+      "kapazitaet": "6/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826600&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
@@ -493,7 +493,7 @@
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831020&date=2026-09-01",
       "verein": "MTV Jever",
-      "warteliste": "1"
+      "warteliste": "2"
     },
     "831301": {
       "altersklasse": "Damen/Herren",
@@ -520,7 +520,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831581&date=2026-10-01",
       "verein": "ESV Wolfenbüttel",
-      "warteliste": "-"
+      "warteliste": "1"
     },
     "832020": {
       "altersklasse": "Damen/Herren",
@@ -588,7 +588,7 @@
     "832680": {
       "altersklasse": "Damen/Herren",
       "date": "So. 06.09.2026 14:15 Uhr",
-      "kapazitaet": "5/16",
+      "kapazitaet": "6/16",
       "region": "Osnabrück-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832680&date=2026-09-01",
       "verein": "SF Oesede",
@@ -619,7 +619,7 @@
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832820&date=2026-09-01",
       "verein": "ESV Hildesheim",
-      "warteliste": "1"
+      "warteliste": "2"
     },
     "832821": {
       "altersklasse": "Damen/Herren",
@@ -741,7 +741,7 @@
     "835520": {
       "altersklasse": "Damen/Herren",
       "date": "So. 06.09.2026 10:00 Uhr",
-      "kapazitaet": "7/16",
+      "kapazitaet": "6/16",
       "region": "Lüneburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=835520&date=2026-09-01",
       "verein": "TuS Hohnstorf/Elbe",
@@ -750,7 +750,7 @@
     "835540": {
       "altersklasse": "Damen/Herren",
       "date": "So. 06.09.2026 13:30 Uhr",
-      "kapazitaet": "4/16",
+      "kapazitaet": "3/16",
       "region": "Lüneburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=835540&date=2026-09-01",
       "verein": "TuS Hohnstorf/Elbe",
