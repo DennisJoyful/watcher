@@ -21,11 +21,11 @@
     "798707": {
       "altersklasse": "Damen/Herren",
       "date": "So. 06.09.2026 15:00 Uhr",
-      "kapazitaet": "0/16",
+      "kapazitaet": "1/16",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798707&date=2026-09-01",
       "verein": "TSV Rüningen",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "798708": {
       "altersklasse": "Damen/Herren",
@@ -111,7 +111,7 @@
     "808181": {
       "altersklasse": "Damen/Herren",
       "date": "So. 06.09.2026 11:30 Uhr",
-      "kapazitaet": "5/13",
+      "kapazitaet": "4/13",
       "region": "Leer",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=808181&date=2026-09-01",
       "verein": "TV Oldersum",
@@ -120,7 +120,7 @@
     "808182": {
       "altersklasse": "Damen/Herren",
       "date": "So. 06.09.2026 15:00 Uhr",
-      "kapazitaet": "7/13",
+      "kapazitaet": "9/13",
       "region": "Leer",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=808182&date=2026-09-01",
       "verein": "TV Oldersum",
@@ -210,7 +210,7 @@
     "826584": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 31.10.2026 10:00 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "0/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826584&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
@@ -219,7 +219,7 @@
     "826585": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 31.10.2026 13:00 Uhr",
-      "kapazitaet": "5/16",
+      "kapazitaet": "4/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826585&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
@@ -417,7 +417,7 @@
     "827181": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 05.09.2026 13:00 Uhr",
-      "kapazitaet": "2/16",
+      "kapazitaet": "1/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827181&date=2026-09-01",
       "verein": "FTSV Jahn Brinkum",
@@ -480,7 +480,7 @@
     "830562": {
       "altersklasse": "Damen/Herren",
       "date": "So. 27.09.2026 16:30 Uhr",
-      "kapazitaet": "15/16",
+      "kapazitaet": "14/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830562&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -714,7 +714,7 @@
     "833800": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 17.10.2026 14:00 Uhr",
-      "kapazitaet": "4/16",
+      "kapazitaet": "3/16",
       "region": "Leer",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833800&date=2026-10-01",
       "verein": "SV Teutonia Stapelmoor",
@@ -1029,8 +1029,10 @@
       "watched_present": []
     },
     "827180": {
-      "all_participants_count": 0,
-      "watched_present": []
+      "all_participants_count": 12,
+      "watched_present": [
+        "Rischer, Timo"
+      ]
     },
     "827181": {
       "all_participants_count": 0,
