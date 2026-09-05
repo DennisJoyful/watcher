@@ -70,7 +70,7 @@
       "region": "Schaumburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=800072&date=2026-09-01",
       "verein": "TuS Kreuzriehe-Helsinghausen",
-      "warteliste": "2"
+      "warteliste": "3"
     },
     "800073": {
       "altersklasse": "Damen/Herren",
@@ -79,7 +79,7 @@
       "region": "Schaumburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=800073&date=2026-09-01",
       "verein": "TuS Kreuzriehe-Helsinghausen",
-      "warteliste": "-"
+      "warteliste": "1"
     },
     "803503": {
       "altersklasse": "Damen/Herren",
@@ -114,15 +114,6 @@
       "kapazitaet": "4/13",
       "region": "Leer",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=808181&date=2026-09-01",
-      "verein": "TV Oldersum",
-      "warteliste": "-"
-    },
-    "808182": {
-      "altersklasse": "Damen/Herren",
-      "date": "So. 06.09.2026 15:00 Uhr",
-      "kapazitaet": "9/13",
-      "region": "Leer",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=808182&date=2026-09-01",
       "verein": "TV Oldersum",
       "warteliste": "-"
     },
@@ -237,7 +228,7 @@
     "826780": {
       "altersklasse": "Damen/Herren",
       "date": "So. 11.10.2026 11:30 Uhr",
-      "kapazitaet": "5/16",
+      "kapazitaet": "4/16",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826780&date=2026-10-01",
       "verein": "RSV Braunschweig",
@@ -246,7 +237,7 @@
     "826781": {
       "altersklasse": "Damen/Herren",
       "date": "So. 11.10.2026 14:30 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "0/16",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826781&date=2026-10-01",
       "verein": "RSV Braunschweig",
@@ -417,7 +408,7 @@
     "827181": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 05.09.2026 13:00 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "3/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827181&date=2026-09-01",
       "verein": "FTSV Jahn Brinkum",
@@ -723,7 +714,7 @@
     "834460": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 23.10.2026 19:30 Uhr",
-      "kapazitaet": "6/13",
+      "kapazitaet": "4/13",
       "region": "Emden",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=834460&date=2026-10-01",
       "verein": "FC Schwarz-Weiß Loquard",
@@ -777,7 +768,7 @@
     "837080": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 12.09.2026 15:00 Uhr",
-      "kapazitaet": "11/13",
+      "kapazitaet": "12/13",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=837080&date=2026-09-01",
       "verein": "SV Büppel",
@@ -795,7 +786,7 @@
     "838000": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 21.10.2026 19:00 Uhr",
-      "kapazitaet": "7/11",
+      "kapazitaet": "6/11",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=838000&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
@@ -897,10 +888,6 @@
       "watched_present": []
     },
     "808181": {
-      "all_participants_count": 0,
-      "watched_present": []
-    },
-    "808182": {
       "all_participants_count": 0,
       "watched_present": []
     },
@@ -1035,8 +1022,10 @@
       ]
     },
     "827181": {
-      "all_participants_count": 0,
-      "watched_present": []
+      "all_participants_count": 13,
+      "watched_present": [
+        "Rischer, Timo"
+      ]
     },
     "829880": {
       "all_participants_count": 0,
