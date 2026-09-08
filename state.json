@@ -88,7 +88,7 @@
       "region": "Cuxhaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=803503&date=2026-09-01",
       "verein": "TV Loxstedt",
-      "warteliste": "1"
+      "warteliste": "2"
     },
     "803746": {
       "altersklasse": "Damen/Herren",
@@ -160,7 +160,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=823420&date=2026-09-01",
       "verein": "RSV Braunschweig",
-      "warteliste": "2"
+      "warteliste": "1"
     },
     "823421": {
       "altersklasse": "Damen/Herren",
@@ -282,7 +282,7 @@
     "827061": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 12.09.2026 15:02 Uhr",
-      "kapazitaet": "1/13",
+      "kapazitaet": "0/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827061&date=2026-09-01",
       "verein": "TTC Grün-Gelb Braunschweig",
@@ -714,7 +714,7 @@
     "833800": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 17.10.2026 14:00 Uhr",
-      "kapazitaet": "3/16",
+      "kapazitaet": "2/16",
       "region": "Leer",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833800&date=2026-10-01",
       "verein": "SV Teutonia Stapelmoor",
@@ -903,7 +903,7 @@
     "840801": {
       "altersklasse": "Damen/Herren",
       "date": "So. 20.09.2026 15:15 Uhr",
-      "kapazitaet": "13/16",
+      "kapazitaet": "12/16",
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840801&date=2026-09-01",
       "verein": "SG Schwarz-Weiß Oldenburg",
@@ -912,7 +912,7 @@
     "840820": {
       "altersklasse": "Damen/Herren",
       "date": "So. 20.09.2026 12:00 Uhr",
-      "kapazitaet": "11/13",
+      "kapazitaet": "10/13",
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840820&date=2026-09-01",
       "verein": "SG Schwarz-Weiß Oldenburg",
@@ -993,7 +993,7 @@
     "841261": {
       "altersklasse": "Damen/Herren",
       "date": "So. 20.09.2026 10:00 Uhr",
-      "kapazitaet": "15/16",
+      "kapazitaet": "14/16",
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=841261&date=2026-09-01",
       "verein": "MTV Almstedt",
@@ -1002,7 +1002,7 @@
     "841262": {
       "altersklasse": "Damen/Herren",
       "date": "So. 20.09.2026 13:00 Uhr",
-      "kapazitaet": "15/16",
+      "kapazitaet": "14/16",
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=841262&date=2026-09-01",
       "verein": "MTV Almstedt",
@@ -1178,6 +1178,66 @@
       "all_participants_count": 0,
       "watched_present": []
     },
+    "827163": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "827164": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "827165": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "827180": {
+      "all_participants_count": 12,
+      "watched_present": [
+        "Rischer, Timo"
+      ]
+    },
+    "827181": {
+      "all_participants_count": 13,
+      "watched_present": [
+        "Rischer, Timo"
+      ]
+    },
+    "829880": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "830540": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "830541": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "830542": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "830560": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "830561": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "830562": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "831020": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "831301": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
     "831580": {
       "all_participants_count": 0,
       "watched_present": []
@@ -1214,11 +1274,23 @@
       "all_participants_count": 0,
       "watched_present": []
     },
+    "832680": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
     "832740": {
       "all_participants_count": 0,
       "watched_present": []
     },
     "832742": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "832820": {
+      "all_participants_count": 10,
+      "watched_present": []
+    },
+    "832821": {
       "all_participants_count": 0,
       "watched_present": []
     },
@@ -1263,6 +1335,22 @@
       "watched_present": []
     },
     "834460": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "834520": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "835520": {
+      "all_participants_count": 9,
+      "watched_present": []
+    },
+    "835540": {
+      "all_participants_count": 12,
+      "watched_present": []
+    },
+    "835660": {
       "all_participants_count": 0,
       "watched_present": []
     },
@@ -1326,6 +1414,10 @@
       "all_participants_count": 0,
       "watched_present": []
     },
+    "840801": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
     "840820": {
       "all_participants_count": 0,
       "watched_present": []
@@ -1355,6 +1447,10 @@
       "watched_present": []
     },
     "841160": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "841161": {
       "all_participants_count": 0,
       "watched_present": []
     },
