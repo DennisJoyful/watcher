@@ -88,7 +88,7 @@
       "region": "Cuxhaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=803503&date=2026-09-01",
       "verein": "TV Loxstedt",
-      "warteliste": "2"
+      "warteliste": "1"
     },
     "803746": {
       "altersklasse": "Damen/Herren",
@@ -102,7 +102,7 @@
     "803823": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 11:00 Uhr",
-      "kapazitaet": "7/11",
+      "kapazitaet": "5/11",
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=803823&date=2026-09-01",
       "verein": "Blau-Weiß Bümmerstede",
@@ -192,7 +192,7 @@
     "826582": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 13:00 Uhr",
-      "kapazitaet": "8/16",
+      "kapazitaet": "9/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826582&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
@@ -273,7 +273,7 @@
     "827060": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 12.09.2026 12:03 Uhr",
-      "kapazitaet": "1/13",
+      "kapazitaet": "0/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827060&date=2026-09-01",
       "verein": "TTC Grün-Gelb Braunschweig",
@@ -282,7 +282,7 @@
     "827061": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 12.09.2026 15:02 Uhr",
-      "kapazitaet": "2/13",
+      "kapazitaet": "1/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827061&date=2026-09-01",
       "verein": "TTC Grün-Gelb Braunschweig",
@@ -295,7 +295,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827063&date=2026-09-01",
       "verein": "TTC Grün-Gelb Braunschweig",
-      "warteliste": "2"
+      "warteliste": "1"
     },
     "827064": {
       "altersklasse": "Damen/Herren",
@@ -426,7 +426,7 @@
     "829880": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 17:15 Uhr",
-      "kapazitaet": "3/16",
+      "kapazitaet": "4/16",
       "region": "Cuxhaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=829880&date=2026-09-01",
       "verein": "TV Loxstedt",
@@ -502,7 +502,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831301&date=2026-09-01",
       "verein": "MTV Braunschweig",
-      "warteliste": "5"
+      "warteliste": "4"
     },
     "831580": {
       "altersklasse": "Damen/Herren",
@@ -678,7 +678,7 @@
     "833544": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 14:00 Uhr",
-      "kapazitaet": "7/16",
+      "kapazitaet": "6/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833544&date=2026-10-01",
       "verein": "TuS Zetel",
@@ -687,7 +687,7 @@
     "833560": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 17:30 Uhr",
-      "kapazitaet": "10/16",
+      "kapazitaet": "9/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833560&date=2026-10-01",
       "verein": "TuS Zetel",
@@ -714,7 +714,7 @@
     "833800": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 17.10.2026 14:00 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "0/16",
       "region": "Leer",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833800&date=2026-10-01",
       "verein": "SV Teutonia Stapelmoor",
@@ -723,7 +723,7 @@
     "834460": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 23.10.2026 19:30 Uhr",
-      "kapazitaet": "3/13",
+      "kapazitaet": "0/13",
       "region": "Emden",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=834460&date=2026-10-01",
       "verein": "FC Schwarz-Weiß Loquard",
@@ -795,7 +795,7 @@
     "838000": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 21.10.2026 19:00 Uhr",
-      "kapazitaet": "6/11",
+      "kapazitaet": "5/11",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=838000&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
@@ -822,7 +822,7 @@
     "839620": {
       "altersklasse": "Damen/Herren",
       "date": "So. 18.10.2026 14:00 Uhr",
-      "kapazitaet": "8/16",
+      "kapazitaet": "7/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=839620&date=2026-10-01",
       "verein": "MTV Jever",
@@ -858,7 +858,7 @@
     "840560": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 14:00 Uhr",
-      "kapazitaet": "9/11",
+      "kapazitaet": "8/11",
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840560&date=2026-09-01",
       "verein": "Blau-Weiß Bümmerstede",
@@ -876,7 +876,7 @@
     "840580": {
       "altersklasse": "Damen/Herren",
       "date": "So. 25.10.2026 11:00 Uhr",
-      "kapazitaet": "10/11",
+      "kapazitaet": "9/11",
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840580&date=2026-10-01",
       "verein": "Blau-Weiß Bümmerstede",
@@ -885,7 +885,7 @@
     "840581": {
       "altersklasse": "Damen/Herren",
       "date": "So. 25.10.2026 14:00 Uhr",
-      "kapazitaet": "10/11",
+      "kapazitaet": "9/11",
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840581&date=2026-10-01",
       "verein": "Blau-Weiß Bümmerstede",
@@ -903,7 +903,7 @@
     "840821": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 17.10.2026 15:00 Uhr",
-      "kapazitaet": "13/13",
+      "kapazitaet": "12/13",
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840821&date=2026-10-01",
       "verein": "SG Schwarz-Weiß Oldenburg",
@@ -912,7 +912,7 @@
     "840840": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 31.10.2026 15:00 Uhr",
-      "kapazitaet": "13/13",
+      "kapazitaet": "12/13",
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840840&date=2026-10-01",
       "verein": "SG Schwarz-Weiß Oldenburg",
@@ -930,7 +930,7 @@
     "840861": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 31.10.2026 18:00 Uhr",
-      "kapazitaet": "16/16",
+      "kapazitaet": "15/16",
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840861&date=2026-10-01",
       "verein": "SG Schwarz-Weiß Oldenburg",
