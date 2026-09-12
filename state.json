@@ -282,7 +282,7 @@
     "827061": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 12.09.2026 15:02 Uhr",
-      "kapazitaet": "1/13",
+      "kapazitaet": "4/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827061&date=2026-09-01",
       "verein": "TTC Grün-Gelb Braunschweig",
@@ -291,7 +291,7 @@
     "827063": {
       "altersklasse": "Damen/Herren",
       "date": "So. 13.09.2026 11:58 Uhr",
-      "kapazitaet": "3/13",
+      "kapazitaet": "2/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827063&date=2026-09-01",
       "verein": "TTC Grün-Gelb Braunschweig",
@@ -300,7 +300,7 @@
     "827064": {
       "altersklasse": "Damen/Herren",
       "date": "So. 13.09.2026 14:59 Uhr",
-      "kapazitaet": "3/13",
+      "kapazitaet": "2/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827064&date=2026-09-01",
       "verein": "TTC Grün-Gelb Braunschweig",
@@ -597,7 +597,7 @@
     "832740": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 10:00 Uhr",
-      "kapazitaet": "12/16",
+      "kapazitaet": "13/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832740&date=2026-10-01",
       "verein": "FTSV Jahn Brinkum",
@@ -628,7 +628,7 @@
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832821&date=2026-09-01",
       "verein": "ESV Hildesheim",
-      "warteliste": "1"
+      "warteliste": "2"
     },
     "832840": {
       "altersklasse": "Damen/Herren",
@@ -813,7 +813,7 @@
     "838221": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 18.09.2026 19:00 Uhr",
-      "kapazitaet": "3/16",
+      "kapazitaet": "2/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=838221&date=2026-09-01",
       "verein": "SV Arminia Vechelde",
@@ -1053,7 +1053,7 @@
       "watched_present": []
     },
     "812561": {
-      "all_participants_count": 0,
+      "all_participants_count": 11,
       "watched_present": []
     },
     "822180": {
@@ -1117,7 +1117,7 @@
       "watched_present": []
     },
     "827061": {
-      "all_participants_count": 0,
+      "all_participants_count": 9,
       "watched_present": []
     },
     "827063": {
