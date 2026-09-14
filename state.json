@@ -628,7 +628,7 @@
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832821&date=2026-09-01",
       "verein": "ESV Hildesheim",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "832840": {
       "altersklasse": "Damen/Herren",
@@ -822,7 +822,7 @@
     "839620": {
       "altersklasse": "Damen/Herren",
       "date": "So. 18.10.2026 14:00 Uhr",
-      "kapazitaet": "5/16",
+      "kapazitaet": "4/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=839620&date=2026-10-01",
       "verein": "MTV Jever",
@@ -853,7 +853,7 @@
       "region": "Aurich/Wittmund",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840520&date=2026-10-01",
       "verein": "TTG Nord Holtriem",
-      "warteliste": "6"
+      "warteliste": "7"
     },
     "840560": {
       "altersklasse": "Damen/Herren",
@@ -894,7 +894,7 @@
     "840641": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 25.09.2026 19:00 Uhr",
-      "kapazitaet": "16/16",
+      "kapazitaet": "15/16",
       "region": "Cuxhaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840641&date=2026-09-01",
       "verein": "SG Beverstedt",
