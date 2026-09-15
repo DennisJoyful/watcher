@@ -79,7 +79,7 @@
       "region": "Schaumburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=800073&date=2026-09-01",
       "verein": "TuS Kreuzriehe-Helsinghausen",
-      "warteliste": "3"
+      "warteliste": "2"
     },
     "803503": {
       "altersklasse": "Damen/Herren",
@@ -160,7 +160,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=823420&date=2026-09-01",
       "verein": "RSV Braunschweig",
-      "warteliste": "-"
+      "warteliste": "1"
     },
     "823421": {
       "altersklasse": "Damen/Herren",
@@ -381,7 +381,7 @@
     "827163": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 19.09.2026 10:00 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "0/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827163&date=2026-09-01",
       "verein": "SV Arminia Vechelde",
@@ -435,7 +435,7 @@
     "830540": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 10:30 Uhr",
-      "kapazitaet": "10/16",
+      "kapazitaet": "9/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830540&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -759,7 +759,7 @@
     "835660": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 10:00 Uhr",
-      "kapazitaet": "15/16",
+      "kapazitaet": "16/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=835660&date=2026-09-01",
       "verein": "SV Adler Hämelerwald",
@@ -813,7 +813,7 @@
     "838221": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 18.09.2026 19:00 Uhr",
-      "kapazitaet": "3/16",
+      "kapazitaet": "4/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=838221&date=2026-09-01",
       "verein": "SV Arminia Vechelde",
@@ -1002,7 +1002,7 @@
     "843740": {
       "altersklasse": "Damen/Herren",
       "date": "So. 11.10.2026 11:00 Uhr",
-      "kapazitaet": "8/12",
+      "kapazitaet": "6/12",
       "region": "Nienburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=843740&date=2026-10-01",
       "verein": "TSV Eystrup",
@@ -1011,7 +1011,7 @@
     "843760": {
       "altersklasse": "Damen/Herren",
       "date": "So. 11.10.2026 14:00 Uhr",
-      "kapazitaet": "8/12",
+      "kapazitaet": "6/12",
       "region": "Nienburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=843760&date=2026-10-01",
       "verein": "TSV Eystrup",
