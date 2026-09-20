@@ -169,7 +169,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=823421&date=2026-09-01",
       "verein": "RSV Braunschweig",
-      "warteliste": "-"
+      "warteliste": "1"
     },
     "825180": {
       "altersklasse": "Damen/Herren",
@@ -192,7 +192,7 @@
     "826582": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 13:00 Uhr",
-      "kapazitaet": "9/16",
+      "kapazitaet": "8/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826582&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
@@ -444,7 +444,7 @@
     "830560": {
       "altersklasse": "Damen/Herren",
       "date": "So. 27.09.2026 10:30 Uhr",
-      "kapazitaet": "12/16",
+      "kapazitaet": "11/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830560&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -484,7 +484,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831301&date=2026-09-01",
       "verein": "MTV Braunschweig",
-      "warteliste": "1"
+      "warteliste": "2"
     },
     "831580": {
       "altersklasse": "Damen/Herren",
@@ -1033,7 +1033,7 @@
       "region": "Südniedersachsen",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=844660&date=2026-09-01",
       "verein": "Turn- und Spielgemeinschaft Opperhausen",
-      "warteliste": "-"
+      "warteliste": "1"
     },
     "845141": {
       "altersklasse": "Damen/Herren",
@@ -1115,7 +1115,7 @@
       "watched_present": []
     },
     "823420": {
-      "all_participants_count": 0,
+      "all_participants_count": 16,
       "watched_present": []
     },
     "823421": {
