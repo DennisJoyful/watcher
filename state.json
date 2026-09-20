@@ -93,7 +93,7 @@
     "803746": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 25.09.2026 19:30 Uhr",
-      "kapazitaet": "1/13",
+      "kapazitaet": "2/13",
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=803746&date=2026-09-01",
       "verein": "VfB Oldenburg",
@@ -201,7 +201,7 @@
     "826583": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 16:00 Uhr",
-      "kapazitaet": "8/16",
+      "kapazitaet": "9/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826583&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
@@ -318,7 +318,7 @@
     "827081": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 15:01 Uhr",
-      "kapazitaet": "8/13",
+      "kapazitaet": "9/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827081&date=2026-09-01",
       "verein": "TTC Grün-Gelb Braunschweig",
@@ -408,7 +408,7 @@
     "829880": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 17:15 Uhr",
-      "kapazitaet": "4/16",
+      "kapazitaet": "3/16",
       "region": "Cuxhaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=829880&date=2026-09-01",
       "verein": "TV Loxstedt",
@@ -417,7 +417,7 @@
     "830540": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 10:30 Uhr",
-      "kapazitaet": "8/16",
+      "kapazitaet": "7/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830540&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -426,7 +426,7 @@
     "830541": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 13:30 Uhr",
-      "kapazitaet": "12/16",
+      "kapazitaet": "11/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830541&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -435,7 +435,7 @@
     "830542": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 16:30 Uhr",
-      "kapazitaet": "11/16",
+      "kapazitaet": "10/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830542&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -484,7 +484,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831301&date=2026-09-01",
       "verein": "MTV Braunschweig",
-      "warteliste": "2"
+      "warteliste": "1"
     },
     "831580": {
       "altersklasse": "Damen/Herren",
@@ -952,7 +952,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=843700&date=2026-10-01",
       "verein": "MTV Braunschweig",
-      "warteliste": "2"
+      "warteliste": "3"
     },
     "843740": {
       "altersklasse": "Damen/Herren",
@@ -1033,12 +1033,12 @@
       "region": "Südniedersachsen",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=844660&date=2026-09-01",
       "verein": "Turn- und Spielgemeinschaft Opperhausen",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "845141": {
       "altersklasse": "Damen/Herren",
       "date": "Di. 20.10.2026 19:00 Uhr",
-      "kapazitaet": "5/13",
+      "kapazitaet": "4/13",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=845141&date=2026-10-01",
       "verein": "VfL Löningen",
