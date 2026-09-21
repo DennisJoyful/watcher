@@ -93,7 +93,7 @@
     "803746": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 25.09.2026 19:30 Uhr",
-      "kapazitaet": "1/13",
+      "kapazitaet": "3/13",
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=803746&date=2026-09-01",
       "verein": "VfB Oldenburg",
@@ -102,7 +102,7 @@
     "803823": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 11:00 Uhr",
-      "kapazitaet": "0/11",
+      "kapazitaet": "1/11",
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=803823&date=2026-09-01",
       "verein": "Blau-Weiß Bümmerstede",
@@ -417,7 +417,7 @@
     "830540": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 10:30 Uhr",
-      "kapazitaet": "7/16",
+      "kapazitaet": "4/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830540&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -426,7 +426,7 @@
     "830541": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 13:30 Uhr",
-      "kapazitaet": "12/16",
+      "kapazitaet": "10/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830541&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -435,7 +435,7 @@
     "830542": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 16:30 Uhr",
-      "kapazitaet": "10/16",
+      "kapazitaet": "9/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830542&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -444,7 +444,7 @@
     "830560": {
       "altersklasse": "Damen/Herren",
       "date": "So. 27.09.2026 10:30 Uhr",
-      "kapazitaet": "10/16",
+      "kapazitaet": "9/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830560&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -453,7 +453,7 @@
     "830561": {
       "altersklasse": "Damen/Herren",
       "date": "So. 27.09.2026 13:30 Uhr",
-      "kapazitaet": "13/16",
+      "kapazitaet": "12/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830561&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -462,7 +462,7 @@
     "830562": {
       "altersklasse": "Damen/Herren",
       "date": "So. 27.09.2026 16:30 Uhr",
-      "kapazitaet": "12/16",
+      "kapazitaet": "11/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830562&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -525,7 +525,7 @@
     "832220": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 10:00 Uhr",
-      "kapazitaet": "6/16",
+      "kapazitaet": "7/16",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832220&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
@@ -534,7 +534,7 @@
     "832221": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 13:30 Uhr",
-      "kapazitaet": "3/16",
+      "kapazitaet": "4/16",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832221&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
@@ -579,7 +579,7 @@
     "832740": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 10:00 Uhr",
-      "kapazitaet": "10/16",
+      "kapazitaet": "9/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832740&date=2026-10-01",
       "verein": "FTSV Jahn Brinkum",
@@ -588,7 +588,7 @@
     "832742": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 13:00 Uhr",
-      "kapazitaet": "7/16",
+      "kapazitaet": "6/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832742&date=2026-10-01",
       "verein": "FTSV Jahn Brinkum",
@@ -714,7 +714,7 @@
     "834520": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 13:30 Uhr",
-      "kapazitaet": "9/16",
+      "kapazitaet": "11/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=834520&date=2026-09-01",
       "verein": "SV Adler Hämelerwald",
@@ -795,7 +795,7 @@
     "839620": {
       "altersklasse": "Damen/Herren",
       "date": "So. 18.10.2026 14:00 Uhr",
-      "kapazitaet": "0/16",
+      "kapazitaet": "1/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=839620&date=2026-10-01",
       "verein": "MTV Jever",
@@ -826,7 +826,7 @@
       "region": "Aurich/Wittmund",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840520&date=2026-10-01",
       "verein": "TTG Nord Holtriem",
-      "warteliste": "7"
+      "warteliste": "6"
     },
     "840560": {
       "altersklasse": "Damen/Herren",
@@ -1024,7 +1024,7 @@
       "region": "Südniedersachsen",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=844660&date=2026-09-01",
       "verein": "Turn- und Spielgemeinschaft Opperhausen",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "845141": {
       "altersklasse": "Damen/Herren",
@@ -1038,7 +1038,7 @@
     "845421": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 09.10.2026 20:30 Uhr",
-      "kapazitaet": "13/13",
+      "kapazitaet": "12/13",
       "region": "Ems-Vechte",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=845421&date=2026-10-01",
       "verein": "TV Meppen",
