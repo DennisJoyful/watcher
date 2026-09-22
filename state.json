@@ -34,7 +34,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798708&date=2026-09-01",
       "verein": "TSV Rüningen",
-      "warteliste": "6"
+      "warteliste": "5"
     },
     "798709": {
       "altersklasse": "Damen/Herren",
@@ -43,7 +43,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798709&date=2026-09-01",
       "verein": "TSV Rüningen",
-      "warteliste": "6"
+      "warteliste": "5"
     },
     "798711": {
       "altersklasse": "Damen/Herren",
@@ -70,12 +70,12 @@
       "region": "Schaumburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=800072&date=2026-09-01",
       "verein": "TuS Kreuzriehe-Helsinghausen",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "800073": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 10:30 Uhr",
-      "kapazitaet": "0/13",
+      "kapazitaet": "1/13",
       "region": "Schaumburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=800073&date=2026-09-01",
       "verein": "TuS Kreuzriehe-Helsinghausen",
@@ -97,7 +97,7 @@
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=803746&date=2026-09-01",
       "verein": "VfB Oldenburg",
-      "warteliste": "1"
+      "warteliste": "2"
     },
     "803823": {
       "altersklasse": "Damen/Herren",
@@ -115,7 +115,7 @@
       "region": "Leer",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=808180&date=2026-09-01",
       "verein": "TV Oldersum",
-      "warteliste": "2"
+      "warteliste": "1"
     },
     "808181": {
       "altersklasse": "Damen/Herren",
@@ -237,7 +237,7 @@
     "826780": {
       "altersklasse": "Damen/Herren",
       "date": "So. 11.10.2026 11:30 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "0/16",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826780&date=2026-10-01",
       "verein": "RSV Braunschweig",
@@ -259,7 +259,7 @@
       "region": "Gifhorn-Wolfsburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826960&date=2026-10-01",
       "verein": "SV Sandkamp",
-      "warteliste": "6"
+      "warteliste": "7"
     },
     "826961": {
       "altersklasse": "Damen/Herren",
@@ -268,7 +268,7 @@
       "region": "Gifhorn-Wolfsburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826961&date=2026-10-01",
       "verein": "SV Sandkamp",
-      "warteliste": "4"
+      "warteliste": "5"
     },
     "827060": {
       "altersklasse": "Damen/Herren",
@@ -435,7 +435,7 @@
     "830542": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 16:30 Uhr",
-      "kapazitaet": "8/16",
+      "kapazitaet": "9/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830542&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -484,12 +484,12 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831301&date=2026-09-01",
       "verein": "MTV Braunschweig",
-      "warteliste": "4"
+      "warteliste": "3"
     },
     "831580": {
       "altersklasse": "Damen/Herren",
       "date": "Mo. 12.10.2026 19:00 Uhr",
-      "kapazitaet": "2/12",
+      "kapazitaet": "1/12",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831580&date=2026-10-01",
       "verein": "ESV Wolfenbüttel",
@@ -660,7 +660,7 @@
     "833544": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 14:00 Uhr",
-      "kapazitaet": "5/16",
+      "kapazitaet": "4/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833544&date=2026-10-01",
       "verein": "TuS Zetel",
@@ -669,7 +669,7 @@
     "833560": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 17:30 Uhr",
-      "kapazitaet": "9/16",
+      "kapazitaet": "8/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833560&date=2026-10-01",
       "verein": "TuS Zetel",
@@ -696,7 +696,7 @@
     "833800": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 17.10.2026 14:00 Uhr",
-      "kapazitaet": "0/16",
+      "kapazitaet": "1/16",
       "region": "Leer",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833800&date=2026-10-01",
       "verein": "SV Teutonia Stapelmoor",
@@ -849,7 +849,7 @@
     "840580": {
       "altersklasse": "Damen/Herren",
       "date": "So. 25.10.2026 11:00 Uhr",
-      "kapazitaet": "5/11",
+      "kapazitaet": "4/11",
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840580&date=2026-10-01",
       "verein": "Blau-Weiß Bümmerstede",
@@ -858,19 +858,10 @@
     "840581": {
       "altersklasse": "Damen/Herren",
       "date": "So. 25.10.2026 14:00 Uhr",
-      "kapazitaet": "7/11",
+      "kapazitaet": "6/11",
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840581&date=2026-10-01",
       "verein": "Blau-Weiß Bümmerstede",
-      "warteliste": "-"
-    },
-    "840641": {
-      "altersklasse": "Damen/Herren",
-      "date": "Fr. 25.09.2026 19:00 Uhr",
-      "kapazitaet": "13/16",
-      "region": "Cuxhaven",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840641&date=2026-09-01",
-      "verein": "SG Beverstedt",
       "warteliste": "-"
     },
     "840821": {
@@ -993,7 +984,7 @@
     "843880": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 19:00 Uhr",
-      "kapazitaet": "9/11",
+      "kapazitaet": "8/11",
       "region": "Emden",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=843880&date=2026-10-01",
       "verein": "TV Greetsiel",
@@ -1011,7 +1002,7 @@
     "844021": {
       "altersklasse": "Damen/Herren",
       "date": "Mo. 05.10.2026 19:30 Uhr",
-      "kapazitaet": "1/11",
+      "kapazitaet": "2/11",
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=844021&date=2026-10-01",
       "verein": "ESV Hildesheim",
@@ -1431,10 +1422,6 @@
       "watched_present": []
     },
     "840581": {
-      "all_participants_count": 0,
-      "watched_present": []
-    },
-    "840641": {
       "all_participants_count": 0,
       "watched_present": []
     },
