@@ -75,7 +75,7 @@
     "800073": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 10:30 Uhr",
-      "kapazitaet": "1/13",
+      "kapazitaet": "0/13",
       "region": "Schaumburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=800073&date=2026-09-01",
       "verein": "TuS Kreuzriehe-Helsinghausen",
@@ -97,7 +97,7 @@
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=803746&date=2026-09-01",
       "verein": "VfB Oldenburg",
-      "warteliste": "-"
+      "warteliste": "1"
     },
     "803823": {
       "altersklasse": "Damen/Herren",
@@ -106,7 +106,7 @@
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=803823&date=2026-09-01",
       "verein": "Blau-Weiß Bümmerstede",
-      "warteliste": "-"
+      "warteliste": "1"
     },
     "808180": {
       "altersklasse": "Damen/Herren",
@@ -309,7 +309,7 @@
     "827080": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 12:01 Uhr",
-      "kapazitaet": "10/13",
+      "kapazitaet": "9/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827080&date=2026-09-01",
       "verein": "TTC Grün-Gelb Braunschweig",
@@ -318,7 +318,7 @@
     "827081": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 15:01 Uhr",
-      "kapazitaet": "10/13",
+      "kapazitaet": "9/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827081&date=2026-09-01",
       "verein": "TTC Grün-Gelb Braunschweig",
@@ -408,7 +408,7 @@
     "829880": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 17:15 Uhr",
-      "kapazitaet": "2/16",
+      "kapazitaet": "3/16",
       "region": "Cuxhaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=829880&date=2026-09-01",
       "verein": "TV Loxstedt",
@@ -417,7 +417,7 @@
     "830540": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 10:30 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "0/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830540&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -426,7 +426,7 @@
     "830541": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 13:30 Uhr",
-      "kapazitaet": "6/16",
+      "kapazitaet": "5/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830541&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -435,7 +435,7 @@
     "830542": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 16:30 Uhr",
-      "kapazitaet": "9/16",
+      "kapazitaet": "10/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830542&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -453,7 +453,7 @@
     "830561": {
       "altersklasse": "Damen/Herren",
       "date": "So. 27.09.2026 13:30 Uhr",
-      "kapazitaet": "10/16",
+      "kapazitaet": "11/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830561&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -484,7 +484,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831301&date=2026-09-01",
       "verein": "MTV Braunschweig",
-      "warteliste": "2"
+      "warteliste": "1"
     },
     "831580": {
       "altersklasse": "Damen/Herren",
@@ -660,7 +660,7 @@
     "833544": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 14:00 Uhr",
-      "kapazitaet": "3/16",
+      "kapazitaet": "4/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833544&date=2026-10-01",
       "verein": "TuS Zetel",
@@ -903,7 +903,7 @@
     "841021": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 17.10.2026 14:00 Uhr",
-      "kapazitaet": "11/16",
+      "kapazitaet": "9/16",
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=841021&date=2026-10-01",
       "verein": "MTV Almstedt",
@@ -993,7 +993,7 @@
     "844001": {
       "altersklasse": "Damen/Herren",
       "date": "Mo. 28.09.2026 19:30 Uhr",
-      "kapazitaet": "6/11",
+      "kapazitaet": "5/11",
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=844001&date=2026-09-01",
       "verein": "ESV Hildesheim",
@@ -1029,7 +1029,7 @@
     "845421": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 09.10.2026 20:30 Uhr",
-      "kapazitaet": "8/13",
+      "kapazitaet": "7/13",
       "region": "Ems-Vechte",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=845421&date=2026-10-01",
       "verein": "TV Meppen",
