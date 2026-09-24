@@ -43,7 +43,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798709&date=2026-09-01",
       "verein": "TSV Rüningen",
-      "warteliste": "5"
+      "warteliste": "4"
     },
     "798711": {
       "altersklasse": "Damen/Herren",
@@ -678,7 +678,7 @@
     "833700": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 10.10.2026 11:00 Uhr",
-      "kapazitaet": "11/13",
+      "kapazitaet": "12/13",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833700&date=2026-10-01",
       "verein": "SV Büppel",
@@ -687,7 +687,7 @@
     "833720": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 10.10.2026 15:00 Uhr",
-      "kapazitaet": "9/13",
+      "kapazitaet": "10/13",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833720&date=2026-10-01",
       "verein": "SV Büppel",
@@ -826,7 +826,7 @@
       "region": "Aurich/Wittmund",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840520&date=2026-10-01",
       "verein": "TTG Nord Holtriem",
-      "warteliste": "6"
+      "warteliste": "7"
     },
     "840560": {
       "altersklasse": "Damen/Herren",
@@ -912,7 +912,7 @@
     "841040": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 17.10.2026 17:00 Uhr",
-      "kapazitaet": "9/16",
+      "kapazitaet": "8/16",
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=841040&date=2026-10-01",
       "verein": "MTV Almstedt",
@@ -1011,7 +1011,7 @@
     "844660": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 30.09.2026 19:30 Uhr",
-      "kapazitaet": "2/10",
+      "kapazitaet": "1/10",
       "region": "Südniedersachsen",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=844660&date=2026-09-01",
       "verein": "Turn- und Spielgemeinschaft Opperhausen",
@@ -1033,6 +1033,33 @@
       "region": "Ems-Vechte",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=845421&date=2026-10-01",
       "verein": "TV Meppen",
+      "warteliste": "-"
+    },
+    "847600": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 10.10.2026 14:45 Uhr",
+      "kapazitaet": "11/11",
+      "region": "Hannover",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=847600&date=2026-10-01",
+      "verein": "TTSG Wennigsen",
+      "warteliste": "-"
+    },
+    "847880": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 24.10.2026 13:30 Uhr",
+      "kapazitaet": "16/16",
+      "region": "Diepholz",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=847880&date=2026-10-01",
+      "verein": "TV Stuhr",
+      "warteliste": "-"
+    },
+    "847900": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 24.10.2026 16:30 Uhr",
+      "kapazitaet": "16/16",
+      "region": "Diepholz",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=847900&date=2026-10-01",
+      "verein": "TV Stuhr",
       "warteliste": "-"
     }
   },
@@ -1498,6 +1525,18 @@
       "watched_present": []
     },
     "845421": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "847600": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "847880": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "847900": {
       "all_participants_count": 0,
       "watched_present": []
     }
