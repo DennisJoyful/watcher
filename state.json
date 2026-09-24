@@ -97,7 +97,7 @@
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=803746&date=2026-09-01",
       "verein": "VfB Oldenburg",
-      "warteliste": "2"
+      "warteliste": "1"
     },
     "803823": {
       "altersklasse": "Damen/Herren",
@@ -432,15 +432,6 @@
       "verein": "Mellendorfer TV",
       "warteliste": "-"
     },
-    "830542": {
-      "altersklasse": "Damen/Herren",
-      "date": "Sa. 26.09.2026 16:30 Uhr",
-      "kapazitaet": "10/16",
-      "region": "Hannover",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830542&date=2026-09-01",
-      "verein": "Mellendorfer TV",
-      "warteliste": "-"
-    },
     "830560": {
       "altersklasse": "Damen/Herren",
       "date": "So. 27.09.2026 10:30 Uhr",
@@ -480,7 +471,7 @@
     "831301": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 25.09.2026 19:00 Uhr",
-      "kapazitaet": "2/13",
+      "kapazitaet": "1/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831301&date=2026-09-01",
       "verein": "MTV Braunschweig",
@@ -588,7 +579,7 @@
     "832742": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 13:00 Uhr",
-      "kapazitaet": "4/16",
+      "kapazitaet": "3/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832742&date=2026-10-01",
       "verein": "FTSV Jahn Brinkum",
@@ -1029,7 +1020,7 @@
     "847880": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 13:30 Uhr",
-      "kapazitaet": "14/16",
+      "kapazitaet": "13/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=847880&date=2026-10-01",
       "verein": "TV Stuhr",
@@ -1038,7 +1029,7 @@
     "847900": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 16:30 Uhr",
-      "kapazitaet": "15/16",
+      "kapazitaet": "14/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=847900&date=2026-10-01",
       "verein": "TV Stuhr",
@@ -1239,10 +1230,6 @@
       "watched_present": []
     },
     "830541": {
-      "all_participants_count": 0,
-      "watched_present": []
-    },
-    "830542": {
       "all_participants_count": 0,
       "watched_present": []
     },
