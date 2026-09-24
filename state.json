@@ -66,7 +66,7 @@
     "800072": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 14:00 Uhr",
-      "kapazitaet": "1/13",
+      "kapazitaet": "3/13",
       "region": "Schaumburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=800072&date=2026-09-01",
       "verein": "TuS Kreuzriehe-Helsinghausen",
@@ -75,7 +75,7 @@
     "800073": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 26.09.2026 10:30 Uhr",
-      "kapazitaet": "2/13",
+      "kapazitaet": "4/13",
       "region": "Schaumburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=800073&date=2026-09-01",
       "verein": "TuS Kreuzriehe-Helsinghausen",
@@ -97,7 +97,7 @@
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=803746&date=2026-09-01",
       "verein": "VfB Oldenburg",
-      "warteliste": "-"
+      "warteliste": "2"
     },
     "803823": {
       "altersklasse": "Damen/Herren",
@@ -111,7 +111,7 @@
     "808180": {
       "altersklasse": "Damen/Herren",
       "date": "So. 27.09.2026 16:30 Uhr",
-      "kapazitaet": "0/13",
+      "kapazitaet": "2/13",
       "region": "Leer",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=808180&date=2026-09-01",
       "verein": "TV Oldersum",
@@ -187,7 +187,7 @@
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826581&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "826582": {
       "altersklasse": "Damen/Herren",
@@ -268,7 +268,7 @@
       "region": "Gifhorn-Wolfsburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826961&date=2026-10-01",
       "verein": "SV Sandkamp",
-      "warteliste": "5"
+      "warteliste": "4"
     },
     "827060": {
       "altersklasse": "Damen/Herren",
@@ -421,7 +421,7 @@
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830540&date=2026-09-01",
       "verein": "Mellendorfer TV",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "830541": {
       "altersklasse": "Damen/Herren",
@@ -453,7 +453,7 @@
     "830561": {
       "altersklasse": "Damen/Herren",
       "date": "So. 27.09.2026 13:30 Uhr",
-      "kapazitaet": "11/16",
+      "kapazitaet": "9/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830561&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -462,7 +462,7 @@
     "830562": {
       "altersklasse": "Damen/Herren",
       "date": "So. 27.09.2026 16:30 Uhr",
-      "kapazitaet": "10/16",
+      "kapazitaet": "8/16",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830562&date=2026-09-01",
       "verein": "Mellendorfer TV",
@@ -480,7 +480,7 @@
     "831301": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 25.09.2026 19:00 Uhr",
-      "kapazitaet": "1/13",
+      "kapazitaet": "2/13",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831301&date=2026-09-01",
       "verein": "MTV Braunschweig",
@@ -489,7 +489,7 @@
     "831580": {
       "altersklasse": "Damen/Herren",
       "date": "Mo. 12.10.2026 19:00 Uhr",
-      "kapazitaet": "1/12",
+      "kapazitaet": "2/12",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831580&date=2026-10-01",
       "verein": "ESV Wolfenbüttel",
@@ -711,15 +711,6 @@
       "verein": "FC Schwarz-Weiß Loquard",
       "warteliste": "-"
     },
-    "834520": {
-      "altersklasse": "Damen/Herren",
-      "date": "Sa. 26.09.2026 13:30 Uhr",
-      "kapazitaet": "13/16",
-      "region": "Hannover",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=834520&date=2026-09-01",
-      "verein": "SV Adler Hämelerwald",
-      "warteliste": "-"
-    },
     "835520": {
       "altersklasse": "Damen/Herren",
       "date": "So. 06.09.2026 10:00 Uhr",
@@ -736,15 +727,6 @@
       "region": "Lüneburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=835540&date=2026-09-01",
       "verein": "TuS Hohnstorf/Elbe",
-      "warteliste": "-"
-    },
-    "835660": {
-      "altersklasse": "Damen/Herren",
-      "date": "Sa. 26.09.2026 10:00 Uhr",
-      "kapazitaet": "16/16",
-      "region": "Hannover",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=835660&date=2026-09-01",
-      "verein": "SV Adler Hämelerwald",
       "warteliste": "-"
     },
     "836161": {
@@ -799,7 +781,7 @@
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=839620&date=2026-10-01",
       "verein": "MTV Jever",
-      "warteliste": "-"
+      "warteliste": "1"
     },
     "839920": {
       "altersklasse": "Damen/Herren",
@@ -966,7 +948,7 @@
     "843782": {
       "altersklasse": "Damen/Herren",
       "date": "So. 25.10.2026 11:00 Uhr",
-      "kapazitaet": "7/12",
+      "kapazitaet": "6/12",
       "region": "Nienburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=843782&date=2026-10-01",
       "verein": "TSV Eystrup",
@@ -975,7 +957,7 @@
     "843800": {
       "altersklasse": "Damen/Herren",
       "date": "So. 25.10.2026 14:00 Uhr",
-      "kapazitaet": "8/12",
+      "kapazitaet": "7/12",
       "region": "Nienburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=843800&date=2026-10-01",
       "verein": "TSV Eystrup",
@@ -1047,7 +1029,7 @@
     "847880": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 13:30 Uhr",
-      "kapazitaet": "15/16",
+      "kapazitaet": "14/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=847880&date=2026-10-01",
       "verein": "TV Stuhr",
@@ -1056,7 +1038,7 @@
     "847900": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 16:30 Uhr",
-      "kapazitaet": "16/16",
+      "kapazitaet": "15/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=847900&date=2026-10-01",
       "verein": "TV Stuhr",
@@ -1384,20 +1366,12 @@
       "all_participants_count": 0,
       "watched_present": []
     },
-    "834520": {
-      "all_participants_count": 0,
-      "watched_present": []
-    },
     "835520": {
       "all_participants_count": 9,
       "watched_present": []
     },
     "835540": {
       "all_participants_count": 12,
-      "watched_present": []
-    },
-    "835660": {
-      "all_participants_count": 0,
       "watched_present": []
     },
     "836161": {
