@@ -39,7 +39,7 @@
     "798709": {
       "altersklasse": "Damen/Herren",
       "date": "So. 27.09.2026 15:00 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "0/16",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798709&date=2026-09-01",
       "verein": "TSV Rüningen",
@@ -88,12 +88,12 @@
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=803823&date=2026-09-01",
       "verein": "Blau-Weiß Bümmerstede",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "808180": {
       "altersklasse": "Damen/Herren",
       "date": "So. 27.09.2026 16:30 Uhr",
-      "kapazitaet": "3/13",
+      "kapazitaet": "0/13",
       "region": "Leer",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=808180&date=2026-09-01",
       "verein": "TV Oldersum",
@@ -385,7 +385,7 @@
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=830540&date=2026-09-01",
       "verein": "Mellendorfer TV",
-      "warteliste": "2"
+      "warteliste": "-"
     },
     "830541": {
       "altersklasse": "Damen/Herren",
@@ -520,7 +520,7 @@
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832742&date=2026-10-01",
       "verein": "FTSV Jahn Brinkum",
-      "warteliste": "-"
+      "warteliste": "2"
     },
     "832820": {
       "altersklasse": "Damen/Herren",
@@ -975,7 +975,7 @@
       "watched_present": []
     },
     "803823": {
-      "all_participants_count": 0,
+      "all_participants_count": 11,
       "watched_present": []
     },
     "808180": {
@@ -1111,11 +1111,11 @@
       "watched_present": []
     },
     "830540": {
-      "all_participants_count": 0,
+      "all_participants_count": 16,
       "watched_present": []
     },
     "830541": {
-      "all_participants_count": 0,
+      "all_participants_count": 13,
       "watched_present": []
     },
     "831020": {
