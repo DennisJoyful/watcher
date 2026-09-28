@@ -196,7 +196,7 @@
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826584&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
-      "warteliste": "2"
+      "warteliste": "1"
     },
     "826585": {
       "altersklasse": "Damen/Herren",
@@ -205,7 +205,7 @@
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826585&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
-      "warteliste": "4"
+      "warteliste": "3"
     },
     "826600": {
       "altersklasse": "Damen/Herren",
@@ -214,7 +214,7 @@
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826600&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
-      "warteliste": "3"
+      "warteliste": "2"
     },
     "826780": {
       "altersklasse": "Damen/Herren",
@@ -543,7 +543,7 @@
     "832840": {
       "altersklasse": "Damen/Herren",
       "date": "Mo. 12.10.2026 19:30 Uhr",
-      "kapazitaet": "1/11",
+      "kapazitaet": "0/11",
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832840&date=2026-10-01",
       "verein": "ESV Hildesheim",
@@ -759,7 +759,7 @@
     "840821": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 17.10.2026 15:00 Uhr",
-      "kapazitaet": "6/13",
+      "kapazitaet": "5/13",
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840821&date=2026-10-01",
       "verein": "SG Schwarz-Weiß Oldenburg",
@@ -777,7 +777,7 @@
     "840860": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 17.10.2026 18:00 Uhr",
-      "kapazitaet": "10/16",
+      "kapazitaet": "9/16",
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840860&date=2026-10-01",
       "verein": "SG Schwarz-Weiß Oldenburg",
@@ -822,7 +822,7 @@
     "843740": {
       "altersklasse": "Damen/Herren",
       "date": "So. 11.10.2026 11:00 Uhr",
-      "kapazitaet": "3/12",
+      "kapazitaet": "2/12",
       "region": "Nienburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=843740&date=2026-10-01",
       "verein": "TSV Eystrup",
@@ -885,7 +885,7 @@
     "845141": {
       "altersklasse": "Damen/Herren",
       "date": "Di. 20.10.2026 19:00 Uhr",
-      "kapazitaet": "1/13",
+      "kapazitaet": "0/13",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=845141&date=2026-10-01",
       "verein": "VfL Löningen",
@@ -943,12 +943,12 @@
       "region": "Harburg-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848180&date=2026-10-01",
       "verein": "Todtglüsinger SV",
-      "warteliste": "-"
+      "warteliste": "1"
     },
     "848240": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 10:00 Uhr",
-      "kapazitaet": "10/16",
+      "kapazitaet": "9/16",
       "region": "Harburg-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848240&date=2026-10-01",
       "verein": "TSV Stelle",
@@ -957,7 +957,7 @@
     "848241": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 13:30 Uhr",
-      "kapazitaet": "11/16",
+      "kapazitaet": "10/16",
       "region": "Harburg-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848241&date=2026-10-01",
       "verein": "TSV Stelle",
