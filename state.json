@@ -174,7 +174,7 @@
     "826582": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 13:00 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "0/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826582&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
@@ -435,7 +435,7 @@
     "832020": {
       "altersklasse": "Damen/Herren",
       "date": "So. 04.10.2026 10:00 Uhr",
-      "kapazitaet": "2/13",
+      "kapazitaet": "0/13",
       "region": "Ammerland",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832020&date=2026-10-01",
       "verein": "VfL Edewecht",
@@ -669,7 +669,7 @@
     "837982": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 14.10.2026 19:00 Uhr",
-      "kapazitaet": "4/11",
+      "kapazitaet": "5/11",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=837982&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
@@ -822,7 +822,7 @@
     "843740": {
       "altersklasse": "Damen/Herren",
       "date": "So. 11.10.2026 11:00 Uhr",
-      "kapazitaet": "2/12",
+      "kapazitaet": "1/12",
       "region": "Nienburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=843740&date=2026-10-01",
       "verein": "TSV Eystrup",
@@ -885,7 +885,7 @@
     "845421": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 09.10.2026 20:30 Uhr",
-      "kapazitaet": "5/13",
+      "kapazitaet": "4/13",
       "region": "Ems-Vechte",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=845421&date=2026-10-01",
       "verein": "TV Meppen",
