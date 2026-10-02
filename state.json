@@ -39,7 +39,7 @@
     "826581": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 10:00 Uhr",
-      "kapazitaet": "0/16",
+      "kapazitaet": "2/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826581&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
@@ -48,18 +48,9 @@
     "826582": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 13:00 Uhr",
-      "kapazitaet": "0/16",
+      "kapazitaet": "1/16",
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826582&date=2026-10-01",
-      "verein": "SV Arminia Vechelde",
-      "warteliste": "-"
-    },
-    "826583": {
-      "altersklasse": "Damen/Herren",
-      "date": "Sa. 03.10.2026 16:00 Uhr",
-      "kapazitaet": "11/16",
-      "region": "Peine",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826583&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
       "warteliste": "-"
     },
@@ -70,7 +61,7 @@
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826584&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
-      "warteliste": "2"
+      "warteliste": "3"
     },
     "826585": {
       "altersklasse": "Damen/Herren",
@@ -79,7 +70,7 @@
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826585&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
-      "warteliste": "3"
+      "warteliste": "4"
     },
     "826600": {
       "altersklasse": "Damen/Herren",
@@ -88,7 +79,7 @@
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826600&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
-      "warteliste": "2"
+      "warteliste": "3"
     },
     "826780": {
       "altersklasse": "Damen/Herren",
@@ -223,23 +214,14 @@
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832220&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "832221": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 13:30 Uhr",
-      "kapazitaet": "0/16",
+      "kapazitaet": "1/16",
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832221&date=2026-10-01",
-      "verein": "SV Blau-Weiß Ramsloh",
-      "warteliste": "1"
-    },
-    "832240": {
-      "altersklasse": "Damen/Herren",
-      "date": "Sa. 03.10.2026 17:00 Uhr",
-      "kapazitaet": "9/16",
-      "region": "Cloppenburg",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832240&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
       "warteliste": "-"
     },
@@ -259,7 +241,7 @@
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832742&date=2026-10-01",
       "verein": "FTSV Jahn Brinkum",
-      "warteliste": "2"
+      "warteliste": "1"
     },
     "832840": {
       "altersklasse": "Damen/Herren",
@@ -376,7 +358,7 @@
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=838000&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
-      "warteliste": "-"
+      "warteliste": "1"
     },
     "839620": {
       "altersklasse": "Damen/Herren",
@@ -385,7 +367,7 @@
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=839620&date=2026-10-01",
       "verein": "MTV Jever",
-      "warteliste": "4"
+      "warteliste": "5"
     },
     "839920": {
       "altersklasse": "Damen/Herren",
@@ -531,15 +513,6 @@
       "verein": "TSV Eystrup",
       "warteliste": "-"
     },
-    "843880": {
-      "altersklasse": "Damen/Herren",
-      "date": "Sa. 03.10.2026 19:00 Uhr",
-      "kapazitaet": "8/11",
-      "region": "Emden",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=843880&date=2026-10-01",
-      "verein": "TV Greetsiel",
-      "warteliste": "-"
-    },
     "844021": {
       "altersklasse": "Damen/Herren",
       "date": "Mo. 05.10.2026 19:30 Uhr",
@@ -665,10 +638,6 @@
       "all_participants_count": 0,
       "watched_present": []
     },
-    "826583": {
-      "all_participants_count": 0,
-      "watched_present": []
-    },
     "826584": {
       "all_participants_count": 0,
       "watched_present": []
@@ -742,10 +711,6 @@
       "watched_present": []
     },
     "832221": {
-      "all_participants_count": 0,
-      "watched_present": []
-    },
-    "832240": {
       "all_participants_count": 0,
       "watched_present": []
     },
@@ -874,10 +839,6 @@
       "watched_present": []
     },
     "843800": {
-      "all_participants_count": 0,
-      "watched_present": []
-    },
-    "843880": {
       "all_participants_count": 0,
       "watched_present": []
     },
