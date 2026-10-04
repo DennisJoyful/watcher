@@ -511,7 +511,7 @@
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=844021&date=2026-10-01",
       "verein": "ESV Hildesheim",
-      "warteliste": "4"
+      "warteliste": "3"
     },
     "845141": {
       "altersklasse": "Damen/Herren",
@@ -570,7 +570,7 @@
     "848180": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 03.10.2026 21:00 Uhr",
-      "kapazitaet": "0/11",
+      "kapazitaet": "1/11",
       "region": "Harburg-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848180&date=2026-10-01",
       "verein": "Todtglüsinger SV",
@@ -583,7 +583,7 @@
       "region": "Harburg-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848240&date=2026-10-01",
       "verein": "TSV Stelle",
-      "warteliste": "2"
+      "warteliste": "3"
     },
     "848241": {
       "altersklasse": "Damen/Herren",
@@ -592,12 +592,12 @@
       "region": "Harburg-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848241&date=2026-10-01",
       "verein": "TSV Stelle",
-      "warteliste": "1"
+      "warteliste": "2"
     },
     "848260": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 17:00 Uhr",
-      "kapazitaet": "7/16",
+      "kapazitaet": "6/16",
       "region": "Harburg-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848260&date=2026-10-01",
       "verein": "TSV Stelle",
@@ -858,11 +858,11 @@
       "watched_present": []
     },
     "848160": {
-      "all_participants_count": 0,
+      "all_participants_count": 11,
       "watched_present": []
     },
     "848180": {
-      "all_participants_count": 0,
+      "all_participants_count": 10,
       "watched_present": []
     },
     "848240": {
