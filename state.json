@@ -70,7 +70,7 @@
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826585&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
-      "warteliste": "4"
+      "warteliste": "3"
     },
     "826600": {
       "altersklasse": "Damen/Herren",
@@ -106,7 +106,7 @@
       "region": "Gifhorn-Wolfsburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826960&date=2026-10-01",
       "verein": "SV Sandkamp",
-      "warteliste": "8"
+      "warteliste": "9"
     },
     "826961": {
       "altersklasse": "Damen/Herren",
@@ -246,7 +246,7 @@
     "833540": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 10.10.2026 11:00 Uhr",
-      "kapazitaet": "11/16",
+      "kapazitaet": "12/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833540&date=2026-10-01",
       "verein": "TuS Zetel",
@@ -264,7 +264,7 @@
     "833542": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 10.10.2026 17:30 Uhr",
-      "kapazitaet": "10/16",
+      "kapazitaet": "11/16",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833542&date=2026-10-01",
       "verein": "TuS Zetel",
@@ -309,7 +309,7 @@
     "833720": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 10.10.2026 15:00 Uhr",
-      "kapazitaet": "11/13",
+      "kapazitaet": "12/13",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833720&date=2026-10-01",
       "verein": "SV Büppel",
@@ -372,7 +372,7 @@
     "839940": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 10.10.2026 14:30 Uhr",
-      "kapazitaet": "11/16",
+      "kapazitaet": "12/16",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=839940&date=2026-10-01",
       "verein": "SV Broitzem",
@@ -385,7 +385,7 @@
       "region": "Aurich/Wittmund",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840520&date=2026-10-01",
       "verein": "TTG Nord Holtriem",
-      "warteliste": "6"
+      "warteliste": "5"
     },
     "840580": {
       "altersklasse": "Damen/Herren",
@@ -412,7 +412,7 @@
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840821&date=2026-10-01",
       "verein": "SG Schwarz-Weiß Oldenburg",
-      "warteliste": "-"
+      "warteliste": "1"
     },
     "840840": {
       "altersklasse": "Damen/Herren",
@@ -511,7 +511,7 @@
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=844021&date=2026-10-01",
       "verein": "ESV Hildesheim",
-      "warteliste": "3"
+      "warteliste": "2"
     },
     "845141": {
       "altersklasse": "Damen/Herren",
@@ -525,7 +525,7 @@
     "845421": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 09.10.2026 20:30 Uhr",
-      "kapazitaet": "0/13",
+      "kapazitaet": "1/13",
       "region": "Ems-Vechte",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=845421&date=2026-10-01",
       "verein": "TV Meppen",
@@ -543,7 +543,7 @@
     "847880": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 13:30 Uhr",
-      "kapazitaet": "7/16",
+      "kapazitaet": "8/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=847880&date=2026-10-01",
       "verein": "TV Stuhr",
