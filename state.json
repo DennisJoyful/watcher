@@ -318,7 +318,7 @@
     "833800": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 17.10.2026 14:00 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "0/16",
       "region": "Leer",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833800&date=2026-10-01",
       "verein": "SV Teutonia Stapelmoor",
@@ -484,7 +484,7 @@
       "region": "Nienburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=843760&date=2026-10-01",
       "verein": "TSV Eystrup",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "843782": {
       "altersklasse": "Damen/Herren",
@@ -543,7 +543,7 @@
     "847880": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 13:30 Uhr",
-      "kapazitaet": "8/16",
+      "kapazitaet": "7/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=847880&date=2026-10-01",
       "verein": "TV Stuhr",
@@ -552,7 +552,7 @@
     "847900": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 16:30 Uhr",
-      "kapazitaet": "11/16",
+      "kapazitaet": "10/16",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=847900&date=2026-10-01",
       "verein": "TV Stuhr",
