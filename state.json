@@ -1,6 +1,1371 @@
 {
   "promoted_notified": [],
-  "self_status": {},
-  "tournaments": {},
-  "watched": {}
+  "self_status": {
+    "798711": {
+      "status": "none"
+    },
+    "798712": {
+      "status": "none"
+    },
+    "822180": {
+      "status": "none"
+    },
+    "825180": {
+      "status": "none"
+    },
+    "826581": {
+      "status": "none"
+    },
+    "826582": {
+      "status": "none"
+    },
+    "826584": {
+      "status": "none"
+    },
+    "826585": {
+      "status": "none"
+    },
+    "826600": {
+      "status": "none"
+    },
+    "826780": {
+      "status": "none"
+    },
+    "826781": {
+      "status": "none"
+    },
+    "826960": {
+      "status": "none"
+    },
+    "826961": {
+      "status": "none"
+    },
+    "827082": {
+      "status": "none"
+    },
+    "827083": {
+      "status": "none"
+    },
+    "827100": {
+      "status": "none"
+    },
+    "827101": {
+      "status": "none"
+    },
+    "827120": {
+      "status": "none"
+    },
+    "827121": {
+      "status": "none"
+    },
+    "831580": {
+      "status": "none"
+    },
+    "831581": {
+      "status": "none"
+    },
+    "832020": {
+      "status": "none"
+    },
+    "832220": {
+      "status": "main"
+    },
+    "832221": {
+      "status": "main"
+    },
+    "832740": {
+      "status": "none"
+    },
+    "832742": {
+      "status": "none"
+    },
+    "832840": {
+      "status": "none"
+    },
+    "833540": {
+      "status": "none"
+    },
+    "833541": {
+      "status": "none"
+    },
+    "833542": {
+      "status": "none"
+    },
+    "833543": {
+      "status": "none"
+    },
+    "833544": {
+      "status": "none"
+    },
+    "833560": {
+      "status": "none"
+    },
+    "833700": {
+      "status": "none"
+    },
+    "833720": {
+      "status": "none"
+    },
+    "833800": {
+      "status": "none"
+    },
+    "834460": {
+      "status": "none"
+    },
+    "837982": {
+      "status": "none"
+    },
+    "838000": {
+      "status": "main"
+    },
+    "839620": {
+      "status": "none"
+    },
+    "839920": {
+      "status": "none"
+    },
+    "839940": {
+      "status": "none"
+    },
+    "840520": {
+      "status": "none"
+    },
+    "840580": {
+      "status": "none"
+    },
+    "840581": {
+      "status": "none"
+    },
+    "840821": {
+      "status": "none"
+    },
+    "840840": {
+      "status": "none"
+    },
+    "840860": {
+      "status": "none"
+    },
+    "840861": {
+      "status": "none"
+    },
+    "841021": {
+      "status": "none"
+    },
+    "841040": {
+      "status": "none"
+    },
+    "843700": {
+      "status": "none"
+    },
+    "843740": {
+      "status": "none"
+    },
+    "843760": {
+      "status": "none"
+    },
+    "843782": {
+      "status": "none"
+    },
+    "843800": {
+      "status": "none"
+    },
+    "844021": {
+      "status": "none"
+    },
+    "845141": {
+      "status": "wait"
+    },
+    "845421": {
+      "status": "none"
+    },
+    "847600": {
+      "status": "none"
+    },
+    "847880": {
+      "status": "none"
+    },
+    "847900": {
+      "status": "none"
+    },
+    "848160": {
+      "status": "none"
+    },
+    "848180": {
+      "status": "none"
+    },
+    "848240": {
+      "status": "none"
+    },
+    "848241": {
+      "status": "none"
+    },
+    "848260": {
+      "status": "none"
+    },
+    "849920": {
+      "status": "none"
+    },
+    "850220": {
+      "status": "none"
+    },
+    "850221": {
+      "status": "none"
+    },
+    "850280": {
+      "status": "none"
+    },
+    "850880": {
+      "status": "none"
+    },
+    "850900": {
+      "status": "none"
+    },
+    "850901": {
+      "status": "none"
+    },
+    "850920": {
+      "status": "none"
+    },
+    "850921": {
+      "status": "none"
+    },
+    "850922": {
+      "status": "none"
+    },
+    "850940": {
+      "status": "none"
+    },
+    "851880": {
+      "status": "none"
+    }
+  },
+  "tournaments": {
+    "798711": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 18.10.2026 12:00 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-17 18:00",
+      "region": "Braunschweig",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798711&date=2026-10-01",
+      "verein": "TSV Rüningen",
+      "warteliste": "8"
+    },
+    "798712": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 18.10.2026 15:00 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-17 18:00",
+      "region": "Braunschweig",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=798712&date=2026-10-01",
+      "verein": "TSV Rüningen",
+      "warteliste": "9"
+    },
+    "822180": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 25.10.2026 10:00 Uhr",
+      "kapazitaet": "0/11",
+      "meldeschluss": "2026-10-24 18:00",
+      "region": "Osnabrück-Land",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=822180&date=2026-10-01",
+      "verein": "SC Glandorf",
+      "warteliste": "2"
+    },
+    "825180": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 25.10.2026 13:30 Uhr",
+      "kapazitaet": "0/11",
+      "meldeschluss": "2026-10-24 18:00",
+      "region": "Osnabrück-Land",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=825180&date=2026-10-01",
+      "verein": "SC Glandorf",
+      "warteliste": "3"
+    },
+    "826581": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 03.10.2026 10:00 Uhr",
+      "kapazitaet": "3/16",
+      "meldeschluss": "2026-10-02 18:00",
+      "region": "Peine",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826581&date=2026-10-01",
+      "verein": "SV Arminia Vechelde",
+      "warteliste": "-"
+    },
+    "826582": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 03.10.2026 13:00 Uhr",
+      "kapazitaet": "3/16",
+      "meldeschluss": "2026-10-02 18:00",
+      "region": "Peine",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826582&date=2026-10-01",
+      "verein": "SV Arminia Vechelde",
+      "warteliste": "-"
+    },
+    "826584": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 31.10.2026 10:00 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-30 18:00",
+      "region": "Peine",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826584&date=2026-10-01",
+      "verein": "SV Arminia Vechelde",
+      "warteliste": "3"
+    },
+    "826585": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 31.10.2026 13:00 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-30 18:00",
+      "region": "Peine",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826585&date=2026-10-01",
+      "verein": "SV Arminia Vechelde",
+      "warteliste": "3"
+    },
+    "826600": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 31.10.2026 16:00 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-30 18:00",
+      "region": "Peine",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826600&date=2026-10-01",
+      "verein": "SV Arminia Vechelde",
+      "warteliste": "4"
+    },
+    "826780": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 11.10.2026 11:30 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-10 18:00",
+      "region": "Braunschweig",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826780&date=2026-10-01",
+      "verein": "RSV Braunschweig",
+      "warteliste": "5"
+    },
+    "826781": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 11.10.2026 14:30 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-10 18:00",
+      "region": "Braunschweig",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826781&date=2026-10-01",
+      "verein": "RSV Braunschweig",
+      "warteliste": "5"
+    },
+    "826960": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 10.10.2026 15:00 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-09 18:00",
+      "region": "Gifhorn-Wolfsburg",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826960&date=2026-10-01",
+      "verein": "SV Sandkamp",
+      "warteliste": "6"
+    },
+    "826961": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 10.10.2026 12:00 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-09 18:00",
+      "region": "Gifhorn-Wolfsburg",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826961&date=2026-10-01",
+      "verein": "SV Sandkamp",
+      "warteliste": "3"
+    },
+    "827082": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 17.10.2026 12:01 Uhr",
+      "kapazitaet": "0/13",
+      "meldeschluss": "2026-10-16 08:00",
+      "region": "Braunschweig",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827082&date=2026-10-01",
+      "verein": "TTC Grün-Gelb Braunschweig",
+      "warteliste": "-"
+    },
+    "827083": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 17.10.2026 15:02 Uhr",
+      "kapazitaet": "0/13",
+      "meldeschluss": "2026-10-16 01:00",
+      "region": "Braunschweig",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827083&date=2026-10-01",
+      "verein": "TTC Grün-Gelb Braunschweig",
+      "warteliste": "1"
+    },
+    "827100": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 25.10.2026 11:45 Uhr",
+      "kapazitaet": "7/13",
+      "meldeschluss": "2026-10-24 08:00",
+      "region": "Braunschweig",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827100&date=2026-10-01",
+      "verein": "TTC Grün-Gelb Braunschweig",
+      "warteliste": "-"
+    },
+    "827101": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 25.10.2026 14:47 Uhr",
+      "kapazitaet": "5/13",
+      "meldeschluss": "2026-10-24 01:00",
+      "region": "Braunschweig",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827101&date=2026-10-01",
+      "verein": "TTC Grün-Gelb Braunschweig",
+      "warteliste": "-"
+    },
+    "827120": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 24.10.2026 12:00 Uhr",
+      "kapazitaet": "4/13",
+      "meldeschluss": "2026-10-23 08:00",
+      "region": "Braunschweig",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827120&date=2026-10-01",
+      "verein": "TTC Grün-Gelb Braunschweig",
+      "warteliste": "-"
+    },
+    "827121": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 24.10.2026 15:00 Uhr",
+      "kapazitaet": "3/13",
+      "meldeschluss": "2026-10-23 08:00",
+      "region": "Braunschweig",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827121&date=2026-10-01",
+      "verein": "TTC Grün-Gelb Braunschweig",
+      "warteliste": "-"
+    },
+    "831580": {
+      "altersklasse": "Damen/Herren",
+      "date": "Mo. 12.10.2026 19:00 Uhr",
+      "kapazitaet": "0/12",
+      "meldeschluss": "2026-10-11 18:00",
+      "region": "Braunschweig",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831580&date=2026-10-01",
+      "verein": "ESV Wolfenbüttel",
+      "warteliste": "2"
+    },
+    "831581": {
+      "altersklasse": "Damen/Herren",
+      "date": "Mo. 19.10.2026 19:00 Uhr",
+      "kapazitaet": "0/12",
+      "meldeschluss": "2026-10-18 18:00",
+      "region": "Braunschweig",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831581&date=2026-10-01",
+      "verein": "ESV Wolfenbüttel",
+      "warteliste": "4"
+    },
+    "832020": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 04.10.2026 10:00 Uhr",
+      "kapazitaet": "3/13",
+      "meldeschluss": "2026-10-03 18:00",
+      "region": "Ammerland",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832020&date=2026-10-01",
+      "verein": "VfL Edewecht",
+      "warteliste": "-"
+    },
+    "832220": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 03.10.2026 10:00 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-02 18:00",
+      "region": "Cloppenburg",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832220&date=2026-10-01",
+      "verein": "SV Blau-Weiß Ramsloh",
+      "warteliste": "-"
+    },
+    "832221": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 03.10.2026 13:30 Uhr",
+      "kapazitaet": "2/16",
+      "meldeschluss": "2026-10-02 18:00",
+      "region": "Cloppenburg",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832221&date=2026-10-01",
+      "verein": "SV Blau-Weiß Ramsloh",
+      "warteliste": "-"
+    },
+    "832740": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 03.10.2026 10:00 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-02 18:00",
+      "region": "Diepholz",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832740&date=2026-10-01",
+      "verein": "FTSV Jahn Brinkum",
+      "warteliste": "-"
+    },
+    "832742": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 03.10.2026 13:00 Uhr",
+      "kapazitaet": "1/16",
+      "meldeschluss": "2026-10-02 18:00",
+      "region": "Diepholz",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832742&date=2026-10-01",
+      "verein": "FTSV Jahn Brinkum",
+      "warteliste": "-"
+    },
+    "832840": {
+      "altersklasse": "Damen/Herren",
+      "date": "Mo. 12.10.2026 19:30 Uhr",
+      "kapazitaet": "0/11",
+      "meldeschluss": "2026-10-11 18:00",
+      "region": "Hildesheim",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=832840&date=2026-10-01",
+      "verein": "ESV Hildesheim",
+      "warteliste": "4"
+    },
+    "833540": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 10.10.2026 11:00 Uhr",
+      "kapazitaet": "10/16",
+      "meldeschluss": "2026-10-09 12:00",
+      "region": "Friesland/Wilhelmshaven",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833540&date=2026-10-01",
+      "verein": "TuS Zetel",
+      "warteliste": "-"
+    },
+    "833541": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 10.10.2026 14:00 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-09 12:00",
+      "region": "Friesland/Wilhelmshaven",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833541&date=2026-10-01",
+      "verein": "TuS Zetel",
+      "warteliste": "2"
+    },
+    "833542": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 10.10.2026 17:30 Uhr",
+      "kapazitaet": "10/16",
+      "meldeschluss": "2026-10-09 12:00",
+      "region": "Friesland/Wilhelmshaven",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833542&date=2026-10-01",
+      "verein": "TuS Zetel",
+      "warteliste": "-"
+    },
+    "833543": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 24.10.2026 11:00 Uhr",
+      "kapazitaet": "4/16",
+      "meldeschluss": "2026-10-23 12:00",
+      "region": "Friesland/Wilhelmshaven",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833543&date=2026-10-01",
+      "verein": "TuS Zetel",
+      "warteliste": "-"
+    },
+    "833544": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 24.10.2026 14:00 Uhr",
+      "kapazitaet": "1/16",
+      "meldeschluss": "2026-10-23 12:00",
+      "region": "Friesland/Wilhelmshaven",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833544&date=2026-10-01",
+      "verein": "TuS Zetel",
+      "warteliste": "-"
+    },
+    "833560": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 24.10.2026 17:30 Uhr",
+      "kapazitaet": "5/16",
+      "meldeschluss": "2026-10-23 12:00",
+      "region": "Friesland/Wilhelmshaven",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833560&date=2026-10-01",
+      "verein": "TuS Zetel",
+      "warteliste": "-"
+    },
+    "833700": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 10.10.2026 11:00 Uhr",
+      "kapazitaet": "12/13",
+      "meldeschluss": "2026-10-09 18:00",
+      "region": "Friesland/Wilhelmshaven",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833700&date=2026-10-01",
+      "verein": "SV Büppel",
+      "warteliste": "-"
+    },
+    "833720": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 10.10.2026 15:00 Uhr",
+      "kapazitaet": "12/13",
+      "meldeschluss": "2026-10-09 18:00",
+      "region": "Friesland/Wilhelmshaven",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833720&date=2026-10-01",
+      "verein": "SV Büppel",
+      "warteliste": "-"
+    },
+    "833800": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 17.10.2026 14:00 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-16 18:00",
+      "region": "Leer",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833800&date=2026-10-01",
+      "verein": "SV Teutonia Stapelmoor",
+      "warteliste": "-"
+    },
+    "834460": {
+      "altersklasse": "Damen/Herren",
+      "date": "Fr. 23.10.2026 19:30 Uhr",
+      "kapazitaet": "2/13",
+      "meldeschluss": "2026-10-22 18:00",
+      "region": "Emden",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=834460&date=2026-10-01",
+      "verein": "FC Schwarz-Weiß Loquard",
+      "warteliste": "-"
+    },
+    "837982": {
+      "altersklasse": "Damen/Herren",
+      "date": "Mi. 14.10.2026 19:00 Uhr",
+      "kapazitaet": "3/11",
+      "meldeschluss": "2026-10-13 18:00",
+      "region": "Cloppenburg",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=837982&date=2026-10-01",
+      "verein": "SV Blau-Weiß Ramsloh",
+      "warteliste": "-"
+    },
+    "838000": {
+      "altersklasse": "Damen/Herren",
+      "date": "Mi. 21.10.2026 19:00 Uhr",
+      "kapazitaet": "0/11",
+      "meldeschluss": "2026-10-20 18:00",
+      "region": "Cloppenburg",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=838000&date=2026-10-01",
+      "verein": "SV Blau-Weiß Ramsloh",
+      "warteliste": "-"
+    },
+    "839620": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 18.10.2026 14:00 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-17 18:00",
+      "region": "Friesland/Wilhelmshaven",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=839620&date=2026-10-01",
+      "verein": "MTV Jever",
+      "warteliste": "4"
+    },
+    "839920": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 10.10.2026 11:00 Uhr",
+      "kapazitaet": "8/16",
+      "meldeschluss": "2026-10-09 18:00",
+      "region": "Braunschweig",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=839920&date=2026-10-01",
+      "verein": "SV Broitzem",
+      "warteliste": "-"
+    },
+    "839940": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 10.10.2026 14:30 Uhr",
+      "kapazitaet": "10/16",
+      "meldeschluss": "2026-10-09 18:00",
+      "region": "Braunschweig",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=839940&date=2026-10-01",
+      "verein": "SV Broitzem",
+      "warteliste": "-"
+    },
+    "840520": {
+      "altersklasse": "Damen/Herren",
+      "date": "Fr. 16.10.2026 20:00 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-15 18:00",
+      "region": "Aurich/Wittmund",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840520&date=2026-10-01",
+      "verein": "TTG Nord Holtriem",
+      "warteliste": "5"
+    },
+    "840580": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 25.10.2026 11:00 Uhr",
+      "kapazitaet": "0/11",
+      "meldeschluss": "2026-10-24 12:00",
+      "region": "Oldenburg-Stadt",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840580&date=2026-10-01",
+      "verein": "Blau-Weiß Bümmerstede",
+      "warteliste": "2"
+    },
+    "840581": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 25.10.2026 14:00 Uhr",
+      "kapazitaet": "3/11",
+      "meldeschluss": "2026-10-24 12:00",
+      "region": "Oldenburg-Stadt",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840581&date=2026-10-01",
+      "verein": "Blau-Weiß Bümmerstede",
+      "warteliste": "-"
+    },
+    "840821": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 17.10.2026 15:00 Uhr",
+      "kapazitaet": "0/13",
+      "meldeschluss": "2026-10-16 14:00",
+      "region": "Oldenburg-Stadt",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840821&date=2026-10-01",
+      "verein": "SG Schwarz-Weiß Oldenburg",
+      "warteliste": "1"
+    },
+    "840840": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 31.10.2026 15:00 Uhr",
+      "kapazitaet": "2/13",
+      "meldeschluss": "2026-10-30 12:00",
+      "region": "Oldenburg-Stadt",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840840&date=2026-10-01",
+      "verein": "SG Schwarz-Weiß Oldenburg",
+      "warteliste": "-"
+    },
+    "840860": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 17.10.2026 18:00 Uhr",
+      "kapazitaet": "4/16",
+      "meldeschluss": "2026-10-16 12:00",
+      "region": "Oldenburg-Stadt",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840860&date=2026-10-01",
+      "verein": "SG Schwarz-Weiß Oldenburg",
+      "warteliste": "-"
+    },
+    "840861": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 31.10.2026 18:00 Uhr",
+      "kapazitaet": "11/16",
+      "meldeschluss": "2026-10-30 12:00",
+      "region": "Oldenburg-Stadt",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840861&date=2026-10-01",
+      "verein": "SG Schwarz-Weiß Oldenburg",
+      "warteliste": "-"
+    },
+    "841021": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 17.10.2026 14:00 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-16 16:30",
+      "region": "Hildesheim",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=841021&date=2026-10-01",
+      "verein": "MTV Almstedt",
+      "warteliste": "2"
+    },
+    "841040": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 17.10.2026 17:00 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-16 16:30",
+      "region": "Hildesheim",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=841040&date=2026-10-01",
+      "verein": "MTV Almstedt",
+      "warteliste": "1"
+    },
+    "843700": {
+      "altersklasse": "Damen/Herren",
+      "date": "Fr. 23.10.2026 19:00 Uhr",
+      "kapazitaet": "0/13",
+      "meldeschluss": "2026-10-22 18:00",
+      "region": "Braunschweig",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=843700&date=2026-10-01",
+      "verein": "MTV Braunschweig",
+      "warteliste": "8"
+    },
+    "843740": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 11.10.2026 11:00 Uhr",
+      "kapazitaet": "0/12",
+      "meldeschluss": "2026-10-10 12:00",
+      "region": "Nienburg",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=843740&date=2026-10-01",
+      "verein": "TSV Eystrup",
+      "warteliste": "3"
+    },
+    "843760": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 11.10.2026 14:00 Uhr",
+      "kapazitaet": "0/12",
+      "meldeschluss": "2026-10-10 12:00",
+      "region": "Nienburg",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=843760&date=2026-10-01",
+      "verein": "TSV Eystrup",
+      "warteliste": "2"
+    },
+    "843782": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 25.10.2026 11:00 Uhr",
+      "kapazitaet": "3/12",
+      "meldeschluss": "2026-10-24 12:00",
+      "region": "Nienburg",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=843782&date=2026-10-01",
+      "verein": "TSV Eystrup",
+      "warteliste": "-"
+    },
+    "843800": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 25.10.2026 14:00 Uhr",
+      "kapazitaet": "5/12",
+      "meldeschluss": "2026-10-24 12:00",
+      "region": "Nienburg",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=843800&date=2026-10-01",
+      "verein": "TSV Eystrup",
+      "warteliste": "-"
+    },
+    "844021": {
+      "altersklasse": "Damen/Herren",
+      "date": "Mo. 05.10.2026 19:30 Uhr",
+      "kapazitaet": "1/11",
+      "meldeschluss": "2026-10-04 18:00",
+      "region": "Hildesheim",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=844021&date=2026-10-01",
+      "verein": "ESV Hildesheim",
+      "warteliste": "-"
+    },
+    "845141": {
+      "altersklasse": "Damen/Herren",
+      "date": "Di. 20.10.2026 19:00 Uhr",
+      "kapazitaet": "0/13",
+      "meldeschluss": "2026-10-19 23:59",
+      "region": "Cloppenburg",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=845141&date=2026-10-01",
+      "verein": "VfL Löningen",
+      "warteliste": "1"
+    },
+    "845421": {
+      "altersklasse": "Damen/Herren",
+      "date": "Fr. 09.10.2026 20:30 Uhr",
+      "kapazitaet": "1/13",
+      "meldeschluss": "2026-10-08 18:00",
+      "region": "Ems-Vechte",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=845421&date=2026-10-01",
+      "verein": "TV Meppen",
+      "warteliste": "-"
+    },
+    "847600": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 10.10.2026 14:45 Uhr",
+      "kapazitaet": "9/11",
+      "meldeschluss": "2026-10-09 18:00",
+      "region": "Hannover",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=847600&date=2026-10-01",
+      "verein": "TTSG Wennigsen",
+      "warteliste": "-"
+    },
+    "847880": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 24.10.2026 13:30 Uhr",
+      "kapazitaet": "7/16",
+      "meldeschluss": "2026-10-23 16:00",
+      "region": "Diepholz",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=847880&date=2026-10-01",
+      "verein": "TV Stuhr",
+      "warteliste": "-"
+    },
+    "847900": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 24.10.2026 16:30 Uhr",
+      "kapazitaet": "10/16",
+      "meldeschluss": "2026-10-23 16:00",
+      "region": "Diepholz",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=847900&date=2026-10-01",
+      "verein": "TV Stuhr",
+      "warteliste": "-"
+    },
+    "848160": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 03.10.2026 17:45 Uhr",
+      "kapazitaet": "0/11",
+      "meldeschluss": "2026-10-02 22:00",
+      "region": "Harburg-Land",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848160&date=2026-10-01",
+      "verein": "Todtglüsinger SV",
+      "warteliste": "-"
+    },
+    "848180": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 03.10.2026 21:00 Uhr",
+      "kapazitaet": "1/11",
+      "meldeschluss": "2026-10-02 22:00",
+      "region": "Harburg-Land",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848180&date=2026-10-01",
+      "verein": "Todtglüsinger SV",
+      "warteliste": "-"
+    },
+    "848240": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 24.10.2026 10:00 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-23 18:00",
+      "region": "Harburg-Land",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848240&date=2026-10-01",
+      "verein": "TSV Stelle",
+      "warteliste": "3"
+    },
+    "848241": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 24.10.2026 13:30 Uhr",
+      "kapazitaet": "0/16",
+      "meldeschluss": "2026-10-23 18:00",
+      "region": "Harburg-Land",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848241&date=2026-10-01",
+      "verein": "TSV Stelle",
+      "warteliste": "3"
+    },
+    "848260": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 24.10.2026 17:00 Uhr",
+      "kapazitaet": "6/16",
+      "meldeschluss": "2026-10-23 18:00",
+      "region": "Harburg-Land",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848260&date=2026-10-01",
+      "verein": "TSV Stelle",
+      "warteliste": "-"
+    },
+    "849920": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 25.10.2026 13:30 Uhr",
+      "kapazitaet": "15/16",
+      "meldeschluss": "2026-10-24 18:00",
+      "region": "Stade",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=849920&date=2026-10-01",
+      "verein": "SSV Hagen",
+      "warteliste": "-"
+    },
+    "850220": {
+      "altersklasse": "Damen/Herren",
+      "date": "Mi. 07.10.2026 18:15 Uhr",
+      "kapazitaet": "11/12",
+      "meldeschluss": "2026-10-06 18:00",
+      "region": "Braunschweig",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850220&date=2026-10-01",
+      "verein": "TSV Salzgitter",
+      "warteliste": "-"
+    },
+    "850221": {
+      "altersklasse": "Damen/Herren",
+      "date": "Mi. 14.10.2026 18:15 Uhr",
+      "kapazitaet": "8/12",
+      "meldeschluss": "2026-10-13 18:00",
+      "region": "Braunschweig",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850221&date=2026-10-01",
+      "verein": "TSV Salzgitter",
+      "warteliste": "-"
+    },
+    "850280": {
+      "altersklasse": "Damen/Herren",
+      "date": "Mi. 28.10.2026 19:30 Uhr",
+      "kapazitaet": "5/11",
+      "meldeschluss": "2026-10-27 18:00",
+      "region": "Südniedersachsen",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850280&date=2026-10-01",
+      "verein": "Turn- und Spielgemeinschaft Opperhausen",
+      "warteliste": "-"
+    },
+    "850880": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 11.10.2026 12:00 Uhr",
+      "kapazitaet": "13/13",
+      "meldeschluss": "2026-10-10 18:00",
+      "region": "Hannover",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850880&date=2026-10-01",
+      "verein": "Badenstedter SC",
+      "warteliste": "-"
+    },
+    "850900": {
+      "altersklasse": "Damen/Herren",
+      "date": "So. 11.10.2026 15:00 Uhr",
+      "kapazitaet": "11/13",
+      "meldeschluss": "2026-10-10 18:00",
+      "region": "Hannover",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850900&date=2026-10-01",
+      "verein": "Badenstedter SC",
+      "warteliste": "-"
+    },
+    "850901": {
+      "altersklasse": "Damen/Herren",
+      "date": "Mo. 12.10.2026 18:00 Uhr",
+      "kapazitaet": "5/13",
+      "meldeschluss": "2026-10-11 18:00",
+      "region": "Hannover",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850901&date=2026-10-01",
+      "verein": "Badenstedter SC",
+      "warteliste": "-"
+    },
+    "850920": {
+      "altersklasse": "Damen/Herren",
+      "date": "Mo. 19.10.2026 18:00 Uhr",
+      "kapazitaet": "6/13",
+      "meldeschluss": "2026-10-18 18:00",
+      "region": "Hannover",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850920&date=2026-10-01",
+      "verein": "Badenstedter SC",
+      "warteliste": "-"
+    },
+    "850921": {
+      "altersklasse": "Damen/Herren",
+      "date": "Fr. 16.10.2026 18:00 Uhr",
+      "kapazitaet": "11/13",
+      "meldeschluss": "2026-10-15 18:00",
+      "region": "Hannover",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850921&date=2026-10-01",
+      "verein": "Badenstedter SC",
+      "warteliste": "-"
+    },
+    "850922": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 24.10.2026 12:00 Uhr",
+      "kapazitaet": "13/13",
+      "meldeschluss": "2026-10-23 18:00",
+      "region": "Hannover",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850922&date=2026-10-01",
+      "verein": "Badenstedter SC",
+      "warteliste": "-"
+    },
+    "850940": {
+      "altersklasse": "Damen/Herren",
+      "date": "Sa. 24.10.2026 15:00 Uhr",
+      "kapazitaet": "11/13",
+      "meldeschluss": "2026-10-23 18:00",
+      "region": "Hannover",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850940&date=2026-10-01",
+      "verein": "Badenstedter SC",
+      "warteliste": "-"
+    },
+    "851880": {
+      "altersklasse": "Damen/Herren",
+      "date": "Mi. 07.10.2026 19:45 Uhr",
+      "kapazitaet": "0/11",
+      "meldeschluss": "2026-10-06 18:00",
+      "region": "Hannover",
+      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=851880&date=2026-10-01",
+      "verein": "TuS Altwarmbüchen",
+      "warteliste": "-"
+    }
+  },
+  "watched": {
+    "798711": {
+      "all_participants_count": 24,
+      "watched_present": []
+    },
+    "798712": {
+      "all_participants_count": 25,
+      "watched_present": []
+    },
+    "822180": {
+      "all_participants_count": 13,
+      "watched_present": []
+    },
+    "825180": {
+      "all_participants_count": 14,
+      "watched_present": []
+    },
+    "826581": {
+      "all_participants_count": 13,
+      "watched_present": []
+    },
+    "826582": {
+      "all_participants_count": 13,
+      "watched_present": []
+    },
+    "826584": {
+      "all_participants_count": 19,
+      "watched_present": []
+    },
+    "826585": {
+      "all_participants_count": 19,
+      "watched_present": []
+    },
+    "826600": {
+      "all_participants_count": 20,
+      "watched_present": []
+    },
+    "826780": {
+      "all_participants_count": 21,
+      "watched_present": []
+    },
+    "826781": {
+      "all_participants_count": 21,
+      "watched_present": []
+    },
+    "826960": {
+      "all_participants_count": 22,
+      "watched_present": []
+    },
+    "826961": {
+      "all_participants_count": 19,
+      "watched_present": []
+    },
+    "827082": {
+      "all_participants_count": 13,
+      "watched_present": []
+    },
+    "827083": {
+      "all_participants_count": 14,
+      "watched_present": []
+    },
+    "827100": {
+      "all_participants_count": 6,
+      "watched_present": []
+    },
+    "827101": {
+      "all_participants_count": 8,
+      "watched_present": []
+    },
+    "827120": {
+      "all_participants_count": 9,
+      "watched_present": []
+    },
+    "827121": {
+      "all_participants_count": 10,
+      "watched_present": []
+    },
+    "831580": {
+      "all_participants_count": 14,
+      "watched_present": []
+    },
+    "831581": {
+      "all_participants_count": 16,
+      "watched_present": []
+    },
+    "832020": {
+      "all_participants_count": 10,
+      "watched_present": []
+    },
+    "832220": {
+      "all_participants_count": 16,
+      "watched_present": [
+        "Rischer, Timo"
+      ]
+    },
+    "832221": {
+      "all_participants_count": 14,
+      "watched_present": [
+        "Rischer, Timo"
+      ]
+    },
+    "832740": {
+      "all_participants_count": 16,
+      "watched_present": []
+    },
+    "832742": {
+      "all_participants_count": 15,
+      "watched_present": []
+    },
+    "832840": {
+      "all_participants_count": 15,
+      "watched_present": []
+    },
+    "833540": {
+      "all_participants_count": 6,
+      "watched_present": []
+    },
+    "833541": {
+      "all_participants_count": 18,
+      "watched_present": []
+    },
+    "833542": {
+      "all_participants_count": 6,
+      "watched_present": []
+    },
+    "833543": {
+      "all_participants_count": 12,
+      "watched_present": [
+        "Rischer, Timo",
+        "Schäpker, Tomte"
+      ]
+    },
+    "833544": {
+      "all_participants_count": 15,
+      "watched_present": [
+        "Rischer, Timo",
+        "Schäpker, Tomte"
+      ]
+    },
+    "833560": {
+      "all_participants_count": 11,
+      "watched_present": [
+        "Rischer, Timo",
+        "Schäpker, Tomte"
+      ]
+    },
+    "833700": {
+      "all_participants_count": 1,
+      "watched_present": []
+    },
+    "833720": {
+      "all_participants_count": 1,
+      "watched_present": []
+    },
+    "833800": {
+      "all_participants_count": 16,
+      "watched_present": []
+    },
+    "834460": {
+      "all_participants_count": 11,
+      "watched_present": []
+    },
+    "837982": {
+      "all_participants_count": 8,
+      "watched_present": []
+    },
+    "838000": {
+      "all_participants_count": 11,
+      "watched_present": [
+        "Rischer, Timo",
+        "Schäpker, Tomte"
+      ]
+    },
+    "839620": {
+      "all_participants_count": 20,
+      "watched_present": []
+    },
+    "839920": {
+      "all_participants_count": 8,
+      "watched_present": []
+    },
+    "839940": {
+      "all_participants_count": 6,
+      "watched_present": []
+    },
+    "840520": {
+      "all_participants_count": 21,
+      "watched_present": []
+    },
+    "840580": {
+      "all_participants_count": 13,
+      "watched_present": []
+    },
+    "840581": {
+      "all_participants_count": 8,
+      "watched_present": []
+    },
+    "840821": {
+      "all_participants_count": 14,
+      "watched_present": []
+    },
+    "840840": {
+      "all_participants_count": 11,
+      "watched_present": []
+    },
+    "840860": {
+      "all_participants_count": 12,
+      "watched_present": []
+    },
+    "840861": {
+      "all_participants_count": 5,
+      "watched_present": []
+    },
+    "841021": {
+      "all_participants_count": 18,
+      "watched_present": []
+    },
+    "841040": {
+      "all_participants_count": 17,
+      "watched_present": []
+    },
+    "843700": {
+      "all_participants_count": 21,
+      "watched_present": []
+    },
+    "843740": {
+      "all_participants_count": 15,
+      "watched_present": []
+    },
+    "843760": {
+      "all_participants_count": 14,
+      "watched_present": []
+    },
+    "843782": {
+      "all_participants_count": 9,
+      "watched_present": []
+    },
+    "843800": {
+      "all_participants_count": 7,
+      "watched_present": []
+    },
+    "844021": {
+      "all_participants_count": 10,
+      "watched_present": []
+    },
+    "845141": {
+      "all_participants_count": 14,
+      "watched_present": [
+        "Rischer, Timo",
+        "Schäpker, Tomte"
+      ]
+    },
+    "845421": {
+      "all_participants_count": 12,
+      "watched_present": []
+    },
+    "847600": {
+      "all_participants_count": 2,
+      "watched_present": []
+    },
+    "847880": {
+      "all_participants_count": 9,
+      "watched_present": []
+    },
+    "847900": {
+      "all_participants_count": 6,
+      "watched_present": []
+    },
+    "848160": {
+      "all_participants_count": 11,
+      "watched_present": []
+    },
+    "848180": {
+      "all_participants_count": 10,
+      "watched_present": []
+    },
+    "848240": {
+      "all_participants_count": 19,
+      "watched_present": []
+    },
+    "848241": {
+      "all_participants_count": 19,
+      "watched_present": []
+    },
+    "848260": {
+      "all_participants_count": 10,
+      "watched_present": []
+    },
+    "849920": {
+      "all_participants_count": 1,
+      "watched_present": []
+    },
+    "850220": {
+      "all_participants_count": 1,
+      "watched_present": []
+    },
+    "850221": {
+      "all_participants_count": 4,
+      "watched_present": []
+    },
+    "850280": {
+      "all_participants_count": 6,
+      "watched_present": []
+    },
+    "850880": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "850900": {
+      "all_participants_count": 2,
+      "watched_present": []
+    },
+    "850901": {
+      "all_participants_count": 8,
+      "watched_present": []
+    },
+    "850920": {
+      "all_participants_count": 7,
+      "watched_present": []
+    },
+    "850921": {
+      "all_participants_count": 2,
+      "watched_present": []
+    },
+    "850922": {
+      "all_participants_count": 0,
+      "watched_present": []
+    },
+    "850940": {
+      "all_participants_count": 2,
+      "watched_present": []
+    },
+    "851880": {
+      "all_participants_count": 11,
+      "watched_present": []
+    }
+  }
 }
