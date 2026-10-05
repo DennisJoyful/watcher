@@ -10,10 +10,10 @@ import os
 import re
 import sys
 from datetime import datetime
-from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import quote_plus
 import urllib.request
+import urllib.error
 
 import yaml
 
@@ -119,7 +119,6 @@ def strip_tags(html: str) -> str:
     """Entfernt HTML-Tags aus einem String, behält Text."""
     text = re.sub(r"<[^>]+>", " ", html)
     text = re.sub(r"\s+", " ", text)
-    # HTML-Entities dekodieren
     text = text.replace("&auml;", "ä").replace("&ouml;", "ö").replace("&uuml;", "ü")
     text = text.replace("&Auml;", "Ä").replace("&Ouml;", "Ö").replace("&Uuml;", "Ü")
     text = text.replace("&szlig;", "ß").replace("&amp;", "&").replace("&nbsp;", " ")
@@ -136,15 +135,10 @@ def parse_calendar(html: str, base_url: str) -> list:
     tournaments = []
     seen = set()
 
-    # Jede Turnier-Zeile enthält einen Link auf tournamentCalendarDetail mit tournament=<id>
-    # Wir suchen alle solchen Links und parsen um jeden herum die Metadaten
     detail_link_pattern = re.compile(
         r'href="([^"]*tournamentCalendarDetail[^"]*tournament=(\d+)[^"]*)"',
         re.IGNORECASE
     )
-
-    # Alle <tr>-Zeilen finden, die einen Turnier-Link enthalten
-    # (die click-tt Tabelle hat pro Turnier eine <tr>)
     tr_pattern = re.compile(r'<tr[^>]*>(.*?)</tr>', re.IGNORECASE | re.DOTALL)
 
     for tr_match in tr_pattern.finditer(html):
@@ -159,29 +153,16 @@ def parse_calendar(html: str, base_url: str) -> list:
             continue
         seen.add(tid)
 
-        # Absolute URL bauen
         if rel_url.startswith("http"):
             full_url = rel_url
         else:
-            # Der href ist relativ zur click-tt Domain
             full_url = "https://ttvn.click-tt.de" + rel_url
 
-        # HTML-Entities in URL fixen
         full_url = full_url.replace("&amp;", "&")
 
-        # Einzelne <td> Zellen extrahieren
         cells = re.findall(r'<td[^>]*>(.*?)</td>', row_html, re.IGNORECASE | re.DOTALL)
         cell_texts = [strip_tags(c) for c in cells]
 
-        # Struktur der Übersicht:
-        # [0] Termin: "Sa. 01.08.2026 12:09 Uhr"
-        # [1] Turnier: "TTVN-Race 2026 TTC Grün-Gelb Braunschweig" (Titel + Verein)
-        # [2] frei: "3/13" oder "16/16"
-        # [3] Warteliste: "2" oder "-"
-        # [4] Ort (Region)
-        # [5] offen für: "ITTF"
-        # [6] Altersklasse: "Damen/Herren"
-        # [7] Info: PDF-Link
         date_str = cell_texts[0] if len(cell_texts) > 0 else ""
         titel_full = cell_texts[1] if len(cell_texts) > 1 else ""
         kapazitaet = cell_texts[2] if len(cell_texts) > 2 else ""
@@ -189,9 +170,6 @@ def parse_calendar(html: str, base_url: str) -> list:
         region = cell_texts[4] if len(cell_texts) > 4 else ""
         altersklasse = cell_texts[6] if len(cell_texts) > 6 else ""
 
-        # Titel splitten: "TTVN-Race 2026 TTC Grün-Gelb Braunschweig"
-        # → Serien-Name und Verein trennen. Verein ist alles nach dem Serien-Namen.
-        # Da wir den Serien-Namen kennen, ist das einfach: alles nach dem ersten Match rauswerfen.
         verein = titel_full
         for series_name in ["TTVN-Race 2026", "TTVN-Race 2025", "TTVN-Race 2027"]:
             if verein.startswith(series_name):
@@ -221,7 +199,6 @@ def parse_detail_competition_urls(html: str) -> list:
     """
     urls = []
     seen = set()
-    # Links: /wa/tournamentPlayerList?...
     for m in re.finditer(
         r'href="([^"]*tournamentPlayerList[^"]*competition=(\d+)[^"]*)"',
         html,
@@ -246,35 +223,74 @@ def parse_detail_competition_urls(html: str) -> list:
 def parse_player_list(html: str) -> list:
     """
     Findet Teilnehmer-Namen auf einer tournamentPlayerList-Seite.
-    Format in der Tabelle: "Klein, Thomas" (Nachname, Vorname)
+
+    Die Tabellenstruktur ändert sich je nach Turnier-Status:
+    - Vor dem Turnier (Anmeldephase): | Name | Verein | Q-TTR |
+    - Nach dem Turnier (mit Ergebnissen): | Platzierung | Bilanz | Name | Verein | Q-TTR |
+    - Es kann ZWEI Tabellen geben: Haupt-Teilnehmer + Wartelisten-Teilnehmer
+
+    Lösung: Pro Tabelle den Header lesen und die Position der "Name"-Spalte
+    bestimmen. Dann alle Daten-Zeilen aus dieser Spalte lesen.
+    Name-Format in beiden Fällen: "Nachname, Vorname"
     """
     names = []
     seen = set()
 
-    # Wir suchen die Teilnehmer-Tabelle. Struktur:
-    # <table><tr><th>Platzierung</th><th>Bilanz</th><th>Name</th><th>Verein</th>...</tr>
-    #        <tr><td>1</td><td>6:0</td><td>Klein, Thomas</td>...</tr>
-    #
-    # Vereinfacht: alle <tr>-Zeilen mit mindestens 3 <td> holen,
-    # die dritte Zelle ist der Name.
-
+    table_pattern = re.compile(r'<table[^>]*>(.*?)</table>', re.IGNORECASE | re.DOTALL)
     tr_pattern = re.compile(r'<tr[^>]*>(.*?)</tr>', re.IGNORECASE | re.DOTALL)
-    for tr_match in tr_pattern.finditer(html):
-        row_html = tr_match.group(1)
-        cells = re.findall(r'<td[^>]*>(.*?)</td>', row_html, re.IGNORECASE | re.DOTALL)
-        if len(cells) < 3:
+
+    for table_match in table_pattern.finditer(html):
+        table_html = table_match.group(1)
+        rows = tr_pattern.findall(table_html)
+        if not rows:
             continue
-        name = strip_tags(cells[2])
-        # Heuristik: Namen haben Komma und Leerzeichen, "Klein, Thomas"
-        if "," not in name or len(name) < 4:
+
+        # Erste Zeile: Header suchen
+        header_row = rows[0]
+        header_cells_th = re.findall(r'<th[^>]*>(.*?)</th>', header_row, re.IGNORECASE | re.DOTALL)
+        header_cells_td = re.findall(r'<td[^>]*>(.*?)</td>', header_row, re.IGNORECASE | re.DOTALL)
+        header_cells = header_cells_th if header_cells_th else header_cells_td
+
+        if not header_cells:
             continue
-        # Ausschließen: Header oder komische Werte
-        if name.lower() in ("name", "spieler"):
+
+        header_texts = [strip_tags(c).lower() for c in header_cells]
+
+        # Position der "Name"-Spalte finden
+        name_col_idx = None
+        for i, h in enumerate(header_texts):
+            if h == "name" or h == "spieler":
+                name_col_idx = i
+                break
+
+        if name_col_idx is None:
             continue
-        if name in seen:
+
+        # Teilnehmer-Tabelle hat auch "Verein"-Spalte
+        if not any("verein" in h for h in header_texts):
             continue
-        seen.add(name)
-        names.append(name)
+
+        # Daten-Zeilen durchgehen
+        data_rows = rows[1:] if header_cells_th else rows
+        if header_cells_td and not header_cells_th and data_rows:
+            first_cells = re.findall(r'<td[^>]*>(.*?)</td>', data_rows[0], re.IGNORECASE | re.DOTALL)
+            first_texts = [strip_tags(c).lower() for c in first_cells]
+            if "name" in first_texts or "spieler" in first_texts:
+                data_rows = data_rows[1:]
+
+        for row_html in data_rows:
+            cells = re.findall(r'<td[^>]*>(.*?)</td>', row_html, re.IGNORECASE | re.DOTALL)
+            if len(cells) <= name_col_idx:
+                continue
+            name = strip_tags(cells[name_col_idx])
+            if "," not in name or len(name) < 4:
+                continue
+            if name.lower() in ("name", "spieler"):
+                continue
+            if name in seen:
+                continue
+            seen.add(name)
+            names.append(name)
 
     return names
 
@@ -288,20 +304,14 @@ def name_matches_watchlist(player_name: str, watch_name: str) -> bool:
     player_lower = player_name.lower()
     watch_lower = watch_name.lower().strip()
 
-    # Einfacher Substring-Match auf dem Original
     if watch_lower in player_lower:
         return True
 
-    # Der User hat evtl. "Timo Rischer" (Vorname Nachname) eingegeben.
-    # Die Seite gibt "Rischer, Timo". Also müssen wir umdrehen.
-    # Einfache Regel: Wenn watch_name mehrere Wörter hat und KEIN Komma,
-    # umdrehen und mit ", " verbinden.
+    # Umgekehrte Reihenfolge testen: "Timo Rischer" → "rischer, timo"
     if " " in watch_lower and "," not in watch_lower:
         parts = watch_lower.split()
-        # Alle Teile bis auf den letzten sind Vornamen, letzter ist Nachname.
-        # Aber sicherheitshalber beide Richtungen ausprobieren.
         if len(parts) >= 2:
-            reversed_1 = parts[-1] + ", " + " ".join(parts[:-1])  # "rischer, timo"
+            reversed_1 = parts[-1] + ", " + " ".join(parts[:-1])
             if reversed_1 in player_lower:
                 return True
 
@@ -320,7 +330,6 @@ def run():
     if not webhook:
         print("WARN: Kein DISCORD_WEBHOOK (env) und kein webhook in config.yaml")
 
-    # Watchlist
     watchlist = [n.strip() for n in (config.get("watchlist") or []) if n.strip()]
     print(f"INFO: Watchlist: {watchlist}")
 
@@ -336,7 +345,6 @@ def run():
     print(f"INFO: Prüfe {len(months)} Monat(e): {months}")
 
     for (y, m) in months:
-        # Erster Tag des Monats als "date"-Parameter
         date_param = f"{y:04d}-{m:02d}-01"
         url = (
             f"https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendar"
@@ -398,7 +406,6 @@ def run():
         all_hits = 0
 
         for tid, t in sorted(all_current_tournaments.items()):
-            # Detailseite laden, um competition-URLs zu bekommen
             try:
                 detail_html = http_get(t["url"])
             except Exception as e:
@@ -409,7 +416,6 @@ def run():
 
             competition_urls = parse_detail_competition_urls(detail_html)
             if not competition_urls:
-                # Kein Teilnehmerlisten-Link → überspringen (evtl. schon lange her, geschlossen etc.)
                 continue
 
             all_participants = []
@@ -421,7 +427,6 @@ def run():
                     continue
                 all_participants.extend(parse_player_list(plist_html))
 
-            # Watchlist-Match
             previous = set(watched_state.get(tid, {}).get("watched_present", []))
             currently_present = []
             for w_name in watchlist:
@@ -464,7 +469,7 @@ def run():
     else:
         print("INFO: Watchlist leer – Detailseiten werden nicht geprüft.")
 
-    # 4. State aktualisieren (nach dem Watchlist-Check, damit Metadaten frisch sind)
+    # 4. State aktualisieren
     state["tournaments"] = {
         tid: {
             "verein": t.get("verein", ""),
