@@ -1,0 +1,51 @@
+name: click-tt Waitlist Watch
+
+on:
+  schedule:
+    # Stündlich. Das Skript selbst entscheidet, ob gerade ein Turnier
+    # im Warteliste-Prüfzeitfenster liegt (Meldeschluss-Tag 12 Uhr bis
+    # Turnier-Tag 12 Uhr) – wenn nicht, ist der Lauf in Sekunden fertig.
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: clicktt-watch
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Run watcher (waitlist)
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: python watcher.py waitlist
+
+      - name: Commit state
+        run: |
+          git config user.name "clicktt-bot"
+          git config user.email "clicktt-bot@users.noreply.github.com"
+          git add state.json
+          if git diff --cached --quiet; then
+            echo "Keine State-Änderung."
+          else
+            git commit -m "Update state (waitlist) $(date -u +'%Y-%m-%d %H:%M UTC')"
+            for i in 1 2 3; do
+              if git push; then
+                echo "Push erfolgreich"
+                break
+              fi
+              echo "Push fehlgeschlagen, versuche pull --rebase ($i/3)..."
+              git pull --rebase
+            done
+          fi
