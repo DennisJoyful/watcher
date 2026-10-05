@@ -3,20 +3,21 @@
 # Discord-Webhook (besser als GitHub-Secret DISCORD_WEBHOOK setzen)
 webhook: ""
 
-# Verband/Circuit - für den TTVN-Race Kalender
+# Verband/Circuit
 federation: "TTVN"
 circuit: "TTVN-Race 26"
 
-# Wie viele Monate im Voraus zusätzlich zum aktuellen?
-# 3 = aktueller + 3 weitere = 4 Monate
+# Anzahl zusätzlicher Monate neben dem aktuellen
 months_advance: 3
 
-# Watchlist: Namen der Spieler:innen, deren Anmeldungen gemeldet werden sollen.
-# Substring-Match, case-insensitive. Reihenfolge Vor-/Nachname egal.
-# Beispiele:
-#   - "Timo Rischer"        (findet "Rischer, Timo")
-#   - "Rischer"             (findet alle Rischers)
-#   - "Rischer, Timo"       (exakter Match)
+# Watchlist: Personen deren Anmeldungen (Haupt oder Warteliste) gemeldet werden
+# Substring-Match, case-insensitive, Reihenfolge Vor-/Nachname egal
 watchlist:
   - "Timo Rischer"
   - "Tomte Schäpker"
+
+# "Self": DU selbst. Zusätzlich zur normalen Anmelde-Benachrichtigung wird
+# dein Warteliste→Hauptfeld-Wechsel am Meldeschluss-Tag stündlich überwacht
+# (zwischen 12 Uhr am Meldeschluss-Tag und 12 Uhr am Turniertag).
+# Format "Nachname, Vorname" (wie auf click-tt).
+self: "Klöver, Dennis"
