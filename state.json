@@ -933,7 +933,7 @@
     "850221": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 14.10.2026 18:15 Uhr",
-      "kapazitaet": "8/12",
+      "kapazitaet": "7/12",
       "meldeschluss": "2026-10-13 18:00",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850221&date=2026-10-01",
@@ -1328,7 +1328,7 @@
       "watched_present": []
     },
     "850221": {
-      "all_participants_count": 4,
+      "all_participants_count": 5,
       "watched_present": []
     },
     "850280": {
