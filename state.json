@@ -525,7 +525,7 @@
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833541&date=2026-10-01",
       "verein": "TuS Zetel",
-      "warteliste": "2"
+      "warteliste": "3"
     },
     "833542": {
       "altersklasse": "Damen/Herren",
@@ -1136,7 +1136,7 @@
       "watched_present": []
     },
     "833541": {
-      "all_participants_count": 18,
+      "all_participants_count": 19,
       "watched_present": []
     },
     "833542": {
