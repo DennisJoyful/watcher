@@ -326,7 +326,7 @@
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826585&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
-      "warteliste": "3"
+      "warteliste": "4"
     },
     "826600": {
       "altersklasse": "Damen/Herren",
@@ -531,7 +531,7 @@
     "833541": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 10.10.2026 14:00 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "3/16",
       "meldeschluss": "2026-10-09 12:00",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833541&date=2026-10-01",
@@ -541,7 +541,7 @@
     "833542": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 10.10.2026 17:30 Uhr",
-      "kapazitaet": "11/16",
+      "kapazitaet": "13/16",
       "meldeschluss": "2026-10-09 12:00",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833542&date=2026-10-01",
@@ -896,7 +896,7 @@
       "region": "Harburg-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848240&date=2026-10-01",
       "verein": "TSV Stelle",
-      "warteliste": "3"
+      "warteliste": "4"
     },
     "848241": {
       "altersklasse": "Damen/Herren",
@@ -906,12 +906,12 @@
       "region": "Harburg-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848241&date=2026-10-01",
       "verein": "TSV Stelle",
-      "warteliste": "3"
+      "warteliste": "4"
     },
     "848260": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 17:00 Uhr",
-      "kapazitaet": "6/16",
+      "kapazitaet": "5/16",
       "meldeschluss": "2026-10-23 18:00",
       "region": "Harburg-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848260&date=2026-10-01",
@@ -941,7 +941,7 @@
     "850280": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 28.10.2026 19:30 Uhr",
-      "kapazitaet": "3/11",
+      "kapazitaet": "2/11",
       "meldeschluss": "2026-10-27 18:00",
       "region": "Südniedersachsen",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850280&date=2026-10-01",
@@ -1089,7 +1089,7 @@
       "watched_present": []
     },
     "826585": {
-      "all_participants_count": 19,
+      "all_participants_count": 20,
       "watched_present": []
     },
     "826600": {
@@ -1177,11 +1177,11 @@
       "watched_present": []
     },
     "833541": {
-      "all_participants_count": 14,
+      "all_participants_count": 13,
       "watched_present": []
     },
     "833542": {
-      "all_participants_count": 4,
+      "all_participants_count": 3,
       "watched_present": []
     },
     "833543": {
@@ -1339,15 +1339,15 @@
       "watched_present": []
     },
     "848240": {
-      "all_participants_count": 19,
+      "all_participants_count": 20,
       "watched_present": []
     },
     "848241": {
-      "all_participants_count": 19,
+      "all_participants_count": 20,
       "watched_present": []
     },
     "848260": {
-      "all_participants_count": 10,
+      "all_participants_count": 11,
       "watched_present": []
     },
     "849920": {
@@ -1359,7 +1359,7 @@
       "watched_present": []
     },
     "850280": {
-      "all_participants_count": 8,
+      "all_participants_count": 9,
       "watched_present": []
     },
     "850880": {
