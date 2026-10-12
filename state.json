@@ -860,7 +860,7 @@
     "850521": {
       "altersklasse": "Damen/Herren",
       "date": "Do. 22.10.2026 19:45 Uhr",
-      "kapazitaet": "5/11",
+      "kapazitaet": "4/11",
       "meldeschluss": "2026-10-21 18:00",
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850521&date=2026-10-01",
@@ -895,7 +895,7 @@
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850920&date=2026-10-01",
       "verein": "Badenstedter SC",
-      "warteliste": "3"
+      "warteliste": "4"
     },
     "850921": {
       "altersklasse": "Damen/Herren",
@@ -1244,7 +1244,7 @@
       "watched_present": []
     },
     "850521": {
-      "all_participants_count": 6,
+      "all_participants_count": 7,
       "watched_present": []
     },
     "850540": {
@@ -1256,7 +1256,7 @@
       "watched_present": []
     },
     "850920": {
-      "all_participants_count": 16,
+      "all_participants_count": 17,
       "watched_present": []
     },
     "850921": {
