@@ -860,7 +860,7 @@
     "850521": {
       "altersklasse": "Damen/Herren",
       "date": "Do. 22.10.2026 19:45 Uhr",
-      "kapazitaet": "3/11",
+      "kapazitaet": "2/11",
       "meldeschluss": "2026-10-21 18:00",
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850521&date=2026-10-01",
@@ -1244,7 +1244,7 @@
       "watched_present": []
     },
     "850521": {
-      "all_participants_count": 8,
+      "all_participants_count": 9,
       "watched_present": []
     },
     "850540": {
