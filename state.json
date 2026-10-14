@@ -860,7 +860,7 @@
     "850521": {
       "altersklasse": "Damen/Herren",
       "date": "Do. 22.10.2026 19:45 Uhr",
-      "kapazitaet": "1/11",
+      "kapazitaet": "0/11",
       "meldeschluss": "2026-10-21 18:00",
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850521&date=2026-10-01",
@@ -875,7 +875,7 @@
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850540&date=2026-10-01",
       "verein": "ESV Hildesheim",
-      "warteliste": "1"
+      "warteliste": "2"
     },
     "850901": {
       "altersklasse": "Damen/Herren",
@@ -1244,11 +1244,11 @@
       "watched_present": []
     },
     "850521": {
-      "all_participants_count": 10,
+      "all_participants_count": 11,
       "watched_present": []
     },
     "850540": {
-      "all_participants_count": 12,
+      "all_participants_count": 13,
       "watched_present": []
     },
     "850901": {
