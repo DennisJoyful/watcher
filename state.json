@@ -751,7 +751,7 @@
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=845141&date=2026-10-01",
       "verein": "VfL Löningen",
-      "warteliste": "2"
+      "warteliste": "1"
     },
     "845421": {
       "altersklasse": "Damen/Herren",
@@ -811,7 +811,7 @@
       "region": "Harburg-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848240&date=2026-10-01",
       "verein": "TSV Stelle",
-      "warteliste": "5"
+      "warteliste": "4"
     },
     "848241": {
       "altersklasse": "Damen/Herren",
@@ -821,7 +821,7 @@
       "region": "Harburg-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848241&date=2026-10-01",
       "verein": "TSV Stelle",
-      "warteliste": "7"
+      "warteliste": "6"
     },
     "848260": {
       "altersklasse": "Damen/Herren",
@@ -831,7 +831,7 @@
       "region": "Harburg-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848260&date=2026-10-01",
       "verein": "TSV Stelle",
-      "warteliste": "5"
+      "warteliste": "4"
     },
     "849920": {
       "altersklasse": "Damen/Herren",
@@ -916,7 +916,7 @@
     "850922": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 12:00 Uhr",
-      "kapazitaet": "2/13",
+      "kapazitaet": "1/13",
       "meldeschluss": "2026-10-23 18:00",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850922&date=2026-10-01",
@@ -926,7 +926,7 @@
     "850940": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 15:00 Uhr",
-      "kapazitaet": "4/13",
+      "kapazitaet": "3/13",
       "meldeschluss": "2026-10-23 18:00",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850940&date=2026-10-01",
@@ -1219,7 +1219,7 @@
       "watched_present": []
     },
     "845141": {
-      "all_participants_count": 15,
+      "all_participants_count": 14,
       "watched_present": [
         "Rischer, Timo",
         "Schäpker, Tomte"
@@ -1246,15 +1246,15 @@
       "watched_present": []
     },
     "848240": {
-      "all_participants_count": 21,
+      "all_participants_count": 20,
       "watched_present": []
     },
     "848241": {
-      "all_participants_count": 23,
+      "all_participants_count": 22,
       "watched_present": []
     },
     "848260": {
-      "all_participants_count": 21,
+      "all_participants_count": 20,
       "watched_present": []
     },
     "849920": {
@@ -1290,11 +1290,11 @@
       "watched_present": []
     },
     "850922": {
-      "all_participants_count": 11,
+      "all_participants_count": 12,
       "watched_present": []
     },
     "850940": {
-      "all_participants_count": 9,
+      "all_participants_count": 10,
       "watched_present": []
     },
     "851880": {
