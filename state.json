@@ -441,7 +441,7 @@
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=831581&date=2026-10-01",
       "verein": "ESV Wolfenbüttel",
-      "warteliste": "5"
+      "warteliste": "6"
     },
     "832020": {
       "altersklasse": "Damen/Herren",
@@ -581,7 +581,7 @@
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=838000&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
-      "warteliste": "4"
+      "warteliste": "5"
     },
     "839620": {
       "altersklasse": "Damen/Herren",
@@ -751,7 +751,7 @@
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=845141&date=2026-10-01",
       "verein": "VfL Löningen",
-      "warteliste": "1"
+      "warteliste": "2"
     },
     "845421": {
       "altersklasse": "Damen/Herren",
@@ -916,7 +916,7 @@
     "850922": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 12:00 Uhr",
-      "kapazitaet": "1/13",
+      "kapazitaet": "0/13",
       "meldeschluss": "2026-10-23 18:00",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850922&date=2026-10-01",
@@ -1076,7 +1076,7 @@
       "watched_present": []
     },
     "831581": {
-      "all_participants_count": 17,
+      "all_participants_count": 18,
       "watched_present": []
     },
     "832020": {
@@ -1148,7 +1148,7 @@
       ]
     },
     "838000": {
-      "all_participants_count": 15,
+      "all_participants_count": 16,
       "watched_present": [
         "Rischer, Timo",
         "Schäpker, Tomte"
@@ -1219,7 +1219,7 @@
       "watched_present": []
     },
     "845141": {
-      "all_participants_count": 14,
+      "all_participants_count": 15,
       "watched_present": [
         "Rischer, Timo",
         "Schäpker, Tomte"
@@ -1290,7 +1290,7 @@
       "watched_present": []
     },
     "850922": {
-      "all_participants_count": 12,
+      "all_participants_count": 13,
       "watched_present": []
     },
     "850940": {
