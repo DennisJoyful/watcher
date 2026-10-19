@@ -581,7 +581,7 @@
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=838000&date=2026-10-01",
       "verein": "SV Blau-Weiß Ramsloh",
-      "warteliste": "4"
+      "warteliste": "3"
     },
     "839620": {
       "altersklasse": "Damen/Herren",
@@ -751,7 +751,7 @@
       "region": "Cloppenburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=845141&date=2026-10-01",
       "verein": "VfL Löningen",
-      "warteliste": "2"
+      "warteliste": "1"
     },
     "845421": {
       "altersklasse": "Damen/Herren",
@@ -986,7 +986,7 @@
     "854182": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 31.10.2026 20:30 Uhr",
-      "kapazitaet": "10/16",
+      "kapazitaet": "8/16",
       "meldeschluss": "2026-10-30 18:00",
       "region": "Lüneburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=854182&date=2026-10-01",
@@ -1148,7 +1148,7 @@
       ]
     },
     "838000": {
-      "all_participants_count": 15,
+      "all_participants_count": 14,
       "watched_present": [
         "Rischer, Timo",
         "Schäpker, Tomte"
@@ -1219,7 +1219,7 @@
       "watched_present": []
     },
     "845141": {
-      "all_participants_count": 15,
+      "all_participants_count": 14,
       "watched_present": [
         "Rischer, Timo",
         "Schäpker, Tomte"
@@ -1318,7 +1318,7 @@
       "watched_present": []
     },
     "854182": {
-      "all_participants_count": 6,
+      "all_participants_count": 8,
       "watched_present": []
     }
   }
