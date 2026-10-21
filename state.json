@@ -264,7 +264,7 @@
       "region": "Osnabrück-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=822180&date=2026-10-01",
       "verein": "SC Glandorf",
-      "warteliste": "2"
+      "warteliste": "1"
     },
     "825180": {
       "altersklasse": "Damen/Herren",
@@ -304,7 +304,7 @@
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826584&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
-      "warteliste": "5"
+      "warteliste": "6"
     },
     "826585": {
       "altersklasse": "Damen/Herren",
@@ -389,7 +389,7 @@
     "827100": {
       "altersklasse": "Damen/Herren",
       "date": "So. 25.10.2026 11:45 Uhr",
-      "kapazitaet": "3/13",
+      "kapazitaet": "1/13",
       "meldeschluss": "2026-10-24 08:00",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827100&date=2026-10-01",
@@ -519,7 +519,7 @@
     "833543": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 11:00 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "2/16",
       "meldeschluss": "2026-10-23 12:00",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833543&date=2026-10-01",
@@ -534,12 +534,12 @@
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833544&date=2026-10-01",
       "verein": "TuS Zetel",
-      "warteliste": "3"
+      "warteliste": "1"
     },
     "833560": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 17:30 Uhr",
-      "kapazitaet": "3/16",
+      "kapazitaet": "4/16",
       "meldeschluss": "2026-10-23 12:00",
       "region": "Friesland/Wilhelmshaven",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=833560&date=2026-10-01",
@@ -614,7 +614,7 @@
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840580&date=2026-10-01",
       "verein": "Blau-Weiß Bümmerstede",
-      "warteliste": "2"
+      "warteliste": "3"
     },
     "840581": {
       "altersklasse": "Damen/Herren",
@@ -779,7 +779,7 @@
     "847900": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 16:30 Uhr",
-      "kapazitaet": "6/16",
+      "kapazitaet": "5/16",
       "meldeschluss": "2026-10-23 16:00",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=847900&date=2026-10-01",
@@ -834,12 +834,12 @@
       "region": "Harburg-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848260&date=2026-10-01",
       "verein": "TSV Stelle",
-      "warteliste": "5"
+      "warteliste": "3"
     },
     "849920": {
       "altersklasse": "Damen/Herren",
       "date": "So. 25.10.2026 13:30 Uhr",
-      "kapazitaet": "9/16",
+      "kapazitaet": "10/16",
       "meldeschluss": "2026-10-24 18:00",
       "region": "Stade",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=849920&date=2026-10-01",
@@ -869,7 +869,7 @@
     "850521": {
       "altersklasse": "Damen/Herren",
       "date": "Do. 22.10.2026 19:45 Uhr",
-      "kapazitaet": "1/11",
+      "kapazitaet": "2/11",
       "meldeschluss": "2026-10-21 18:00",
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850521&date=2026-10-01",
@@ -934,7 +934,7 @@
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850940&date=2026-10-01",
       "verein": "Badenstedter SC",
-      "warteliste": "1"
+      "warteliste": "2"
     },
     "851880": {
       "altersklasse": "Damen/Herren",
@@ -949,7 +949,7 @@
     "852300": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 28.10.2026 20:00 Uhr",
-      "kapazitaet": "7/16",
+      "kapazitaet": "5/16",
       "meldeschluss": "2026-10-28 09:00",
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=852300&date=2026-10-01",
@@ -1017,7 +1017,7 @@
       "watched_present": []
     },
     "822180": {
-      "all_participants_count": 13,
+      "all_participants_count": 12,
       "watched_present": []
     },
     "825180": {
@@ -1033,7 +1033,7 @@
       "watched_present": []
     },
     "826584": {
-      "all_participants_count": 21,
+      "all_participants_count": 22,
       "watched_present": []
     },
     "826585": {
@@ -1069,7 +1069,7 @@
       "watched_present": []
     },
     "827100": {
-      "all_participants_count": 10,
+      "all_participants_count": 12,
       "watched_present": []
     },
     "827101": {
@@ -1125,21 +1125,21 @@
       "watched_present": []
     },
     "833543": {
-      "all_participants_count": 15,
+      "all_participants_count": 14,
       "watched_present": [
         "Rischer, Timo",
         "Schäpker, Tomte"
       ]
     },
     "833544": {
-      "all_participants_count": 19,
+      "all_participants_count": 17,
       "watched_present": [
         "Rischer, Timo",
         "Schäpker, Tomte"
       ]
     },
     "833560": {
-      "all_participants_count": 13,
+      "all_participants_count": 12,
       "watched_present": [
         "Rischer, Timo",
         "Schäpker, Tomte"
@@ -1175,7 +1175,7 @@
       "watched_present": []
     },
     "840580": {
-      "all_participants_count": 13,
+      "all_participants_count": 14,
       "watched_present": []
     },
     "840581": {
@@ -1246,7 +1246,7 @@
       "watched_present": []
     },
     "847900": {
-      "all_participants_count": 10,
+      "all_participants_count": 11,
       "watched_present": []
     },
     "848160": {
@@ -1266,11 +1266,11 @@
       "watched_present": []
     },
     "848260": {
-      "all_participants_count": 21,
+      "all_participants_count": 19,
       "watched_present": []
     },
     "849920": {
-      "all_participants_count": 7,
+      "all_participants_count": 6,
       "watched_present": []
     },
     "850221": {
@@ -1282,7 +1282,7 @@
       "watched_present": []
     },
     "850521": {
-      "all_participants_count": 10,
+      "all_participants_count": 9,
       "watched_present": []
     },
     "850540": {
@@ -1306,7 +1306,7 @@
       "watched_present": []
     },
     "850940": {
-      "all_participants_count": 14,
+      "all_participants_count": 15,
       "watched_present": []
     },
     "851880": {
@@ -1314,7 +1314,7 @@
       "watched_present": []
     },
     "852300": {
-      "all_participants_count": 9,
+      "all_participants_count": 11,
       "watched_present": []
     },
     "853060": {
