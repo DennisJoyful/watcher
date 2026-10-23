@@ -171,9 +171,6 @@
     "848241": {
       "status": "none"
     },
-    "848260": {
-      "status": "none"
-    },
     "849920": {
       "status": "none"
     },
@@ -377,7 +374,7 @@
     "827100": {
       "altersklasse": "Damen/Herren",
       "date": "So. 25.10.2026 11:45 Uhr",
-      "kapazitaet": "2/13",
+      "kapazitaet": "3/13",
       "meldeschluss": "2026-10-24 08:00",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827100&date=2026-10-01",
@@ -387,7 +384,7 @@
     "827101": {
       "altersklasse": "Damen/Herren",
       "date": "So. 25.10.2026 14:47 Uhr",
-      "kapazitaet": "1/13",
+      "kapazitaet": "2/13",
       "meldeschluss": "2026-10-24 01:00",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827101&date=2026-10-01",
@@ -647,12 +644,12 @@
     "843700": {
       "altersklasse": "Damen/Herren",
       "date": "Fr. 23.10.2026 19:00 Uhr",
-      "kapazitaet": "0/13",
+      "kapazitaet": "1/13",
       "meldeschluss": "2026-10-22 18:00",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=843700&date=2026-10-01",
       "verein": "MTV Braunschweig",
-      "warteliste": "3"
+      "warteliste": "-"
     },
     "843740": {
       "altersklasse": "Damen/Herren",
@@ -687,12 +684,12 @@
     "843800": {
       "altersklasse": "Damen/Herren",
       "date": "So. 25.10.2026 14:00 Uhr",
-      "kapazitaet": "2/12",
+      "kapazitaet": "0/12",
       "meldeschluss": "2026-10-24 12:00",
       "region": "Nienburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=843800&date=2026-10-01",
       "verein": "TSV Eystrup",
-      "warteliste": "-"
+      "warteliste": "1"
     },
     "844021": {
       "altersklasse": "Damen/Herren",
@@ -727,7 +724,7 @@
     "847880": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 13:30 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "0/16",
       "meldeschluss": "2026-10-23 16:00",
       "region": "Diepholz",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=847880&date=2026-10-01",
@@ -777,27 +774,17 @@
     "848241": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 13:30 Uhr",
-      "kapazitaet": "2/16",
+      "kapazitaet": "0/16",
       "meldeschluss": "2026-10-23 18:00",
       "region": "Harburg-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848241&date=2026-10-01",
       "verein": "TSV Stelle",
       "warteliste": "-"
     },
-    "848260": {
-      "altersklasse": "Damen/Herren",
-      "date": "Sa. 24.10.2026 17:00 Uhr",
-      "kapazitaet": "8/16",
-      "meldeschluss": "2026-10-23 18:00",
-      "region": "Harburg-Land",
-      "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=848260&date=2026-10-01",
-      "verein": "TSV Stelle",
-      "warteliste": "-"
-    },
     "849920": {
       "altersklasse": "Damen/Herren",
       "date": "So. 25.10.2026 13:30 Uhr",
-      "kapazitaet": "7/16",
+      "kapazitaet": "5/16",
       "meldeschluss": "2026-10-24 18:00",
       "region": "Stade",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=849920&date=2026-10-01",
@@ -877,7 +864,7 @@
     "850922": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 24.10.2026 12:00 Uhr",
-      "kapazitaet": "1/13",
+      "kapazitaet": "0/13",
       "meldeschluss": "2026-10-23 18:00",
       "region": "Hannover",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850922&date=2026-10-01",
@@ -1017,11 +1004,11 @@
       "watched_present": []
     },
     "827100": {
-      "all_participants_count": 11,
+      "all_participants_count": 10,
       "watched_present": []
     },
     "827101": {
-      "all_participants_count": 12,
+      "all_participants_count": 11,
       "watched_present": []
     },
     "831580": {
@@ -1140,7 +1127,7 @@
       "watched_present": []
     },
     "843700": {
-      "all_participants_count": 16,
+      "all_participants_count": 12,
       "watched_present": []
     },
     "843740": {
@@ -1156,7 +1143,7 @@
       "watched_present": []
     },
     "843800": {
-      "all_participants_count": 10,
+      "all_participants_count": 13,
       "watched_present": []
     },
     "844021": {
@@ -1175,7 +1162,7 @@
       "watched_present": []
     },
     "847880": {
-      "all_participants_count": 15,
+      "all_participants_count": 16,
       "watched_present": []
     },
     "847900": {
@@ -1195,15 +1182,11 @@
       "watched_present": []
     },
     "848241": {
-      "all_participants_count": 14,
-      "watched_present": []
-    },
-    "848260": {
-      "all_participants_count": 8,
+      "all_participants_count": 16,
       "watched_present": []
     },
     "849920": {
-      "all_participants_count": 9,
+      "all_participants_count": 11,
       "watched_present": []
     },
     "850221": {
@@ -1235,7 +1218,7 @@
       "watched_present": []
     },
     "850922": {
-      "all_participants_count": 11,
+      "all_participants_count": 13,
       "watched_present": []
     },
     "850940": {
