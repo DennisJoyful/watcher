@@ -254,7 +254,7 @@
     "825180": {
       "altersklasse": "Damen/Herren",
       "date": "So. 25.10.2026 13:30 Uhr",
-      "kapazitaet": "5/11",
+      "kapazitaet": "6/11",
       "meldeschluss": "2026-10-24 18:00",
       "region": "Osnabrück-Land",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=825180&date=2026-10-01",
@@ -384,7 +384,7 @@
     "827101": {
       "altersklasse": "Damen/Herren",
       "date": "So. 25.10.2026 14:47 Uhr",
-      "kapazitaet": "2/13",
+      "kapazitaet": "3/13",
       "meldeschluss": "2026-10-24 01:00",
       "region": "Braunschweig",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=827101&date=2026-10-01",
@@ -569,12 +569,12 @@
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840580&date=2026-10-01",
       "verein": "Blau-Weiß Bümmerstede",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "840581": {
       "altersklasse": "Damen/Herren",
       "date": "So. 25.10.2026 14:00 Uhr",
-      "kapazitaet": "1/11",
+      "kapazitaet": "2/11",
       "meldeschluss": "2026-10-24 12:00",
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840581&date=2026-10-01",
@@ -689,7 +689,7 @@
       "region": "Nienburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=843800&date=2026-10-01",
       "verein": "TSV Eystrup",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "844021": {
       "altersklasse": "Damen/Herren",
@@ -829,7 +829,7 @@
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850540&date=2026-10-01",
       "verein": "ESV Hildesheim",
-      "warteliste": "6"
+      "warteliste": "7"
     },
     "850901": {
       "altersklasse": "Damen/Herren",
@@ -894,7 +894,7 @@
     "852300": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 28.10.2026 20:00 Uhr",
-      "kapazitaet": "5/16",
+      "kapazitaet": "4/16",
       "meldeschluss": "2026-10-28 09:00",
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=852300&date=2026-10-01",
@@ -956,7 +956,7 @@
       "watched_present": []
     },
     "825180": {
-      "all_participants_count": 6,
+      "all_participants_count": 5,
       "watched_present": []
     },
     "826581": {
@@ -1008,7 +1008,7 @@
       "watched_present": []
     },
     "827101": {
-      "all_participants_count": 11,
+      "all_participants_count": 10,
       "watched_present": []
     },
     "831580": {
@@ -1095,11 +1095,11 @@
       "watched_present": []
     },
     "840580": {
-      "all_participants_count": 12,
+      "all_participants_count": 11,
       "watched_present": []
     },
     "840581": {
-      "all_participants_count": 10,
+      "all_participants_count": 9,
       "watched_present": []
     },
     "840821": {
@@ -1143,7 +1143,7 @@
       "watched_present": []
     },
     "843800": {
-      "all_participants_count": 13,
+      "all_participants_count": 12,
       "watched_present": []
     },
     "844021": {
@@ -1202,7 +1202,7 @@
       "watched_present": []
     },
     "850540": {
-      "all_participants_count": 17,
+      "all_participants_count": 18,
       "watched_present": []
     },
     "850901": {
@@ -1230,7 +1230,7 @@
       "watched_present": []
     },
     "852300": {
-      "all_participants_count": 11,
+      "all_participants_count": 12,
       "watched_present": []
     },
     "853060": {
