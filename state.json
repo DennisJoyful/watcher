@@ -286,7 +286,7 @@
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826585&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
-      "warteliste": "3"
+      "warteliste": "4"
     },
     "826600": {
       "altersklasse": "Damen/Herren",
@@ -296,7 +296,7 @@
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826600&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
-      "warteliste": "2"
+      "warteliste": "3"
     },
     "826780": {
       "altersklasse": "Damen/Herren",
@@ -796,7 +796,7 @@
       "region": "Südniedersachsen",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850280&date=2026-10-01",
       "verein": "Turn- und Spielgemeinschaft Opperhausen",
-      "warteliste": "3"
+      "warteliste": "2"
     },
     "850521": {
       "altersklasse": "Damen/Herren",
@@ -811,7 +811,7 @@
     "850540": {
       "altersklasse": "Damen/Herren",
       "date": "Mo. 26.10.2026 19:30 Uhr",
-      "kapazitaet": "1/11",
+      "kapazitaet": "5/11",
       "meldeschluss": "2026-10-25 18:00",
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=850540&date=2026-10-01",
@@ -881,7 +881,7 @@
     "852300": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 28.10.2026 20:00 Uhr",
-      "kapazitaet": "1/16",
+      "kapazitaet": "2/16",
       "meldeschluss": "2026-10-28 09:00",
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=852300&date=2026-10-01",
@@ -911,7 +911,7 @@
     "854180": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 31.10.2026 23:59 Uhr",
-      "kapazitaet": "11/16",
+      "kapazitaet": "12/16",
       "meldeschluss": "2026-10-30 18:00",
       "region": "Lüneburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=854180&date=2026-10-01",
@@ -921,7 +921,7 @@
     "854182": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 31.10.2026 20:30 Uhr",
-      "kapazitaet": "5/16",
+      "kapazitaet": "6/16",
       "meldeschluss": "2026-10-30 18:00",
       "region": "Lüneburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=854182&date=2026-10-01",
@@ -955,11 +955,11 @@
       "watched_present": []
     },
     "826585": {
-      "all_participants_count": 19,
+      "all_participants_count": 20,
       "watched_present": []
     },
     "826600": {
-      "all_participants_count": 18,
+      "all_participants_count": 19,
       "watched_present": []
     },
     "826780": {
@@ -1177,7 +1177,7 @@
       "watched_present": []
     },
     "850280": {
-      "all_participants_count": 14,
+      "all_participants_count": 13,
       "watched_present": []
     },
     "850521": {
@@ -1185,7 +1185,7 @@
       "watched_present": []
     },
     "850540": {
-      "all_participants_count": 10,
+      "all_participants_count": 6,
       "watched_present": []
     },
     "850901": {
@@ -1213,7 +1213,7 @@
       "watched_present": []
     },
     "852300": {
-      "all_participants_count": 15,
+      "all_participants_count": 14,
       "watched_present": []
     },
     "853060": {
@@ -1225,11 +1225,11 @@
       "watched_present": []
     },
     "854180": {
-      "all_participants_count": 5,
+      "all_participants_count": 4,
       "watched_present": []
     },
     "854182": {
-      "all_participants_count": 11,
+      "all_participants_count": 10,
       "watched_present": []
     }
   }
