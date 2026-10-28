@@ -881,7 +881,7 @@
     "852300": {
       "altersklasse": "Damen/Herren",
       "date": "Mi. 28.10.2026 20:00 Uhr",
-      "kapazitaet": "3/16",
+      "kapazitaet": "4/16",
       "meldeschluss": "2026-10-28 09:00",
       "region": "Hildesheim",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=852300&date=2026-10-01",
@@ -1213,7 +1213,7 @@
       "watched_present": []
     },
     "852300": {
-      "all_participants_count": 13,
+      "all_participants_count": 12,
       "watched_present": []
     },
     "853060": {
