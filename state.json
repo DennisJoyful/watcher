@@ -270,7 +270,7 @@
       "region": "Peine",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=826584&date=2026-10-01",
       "verein": "SV Arminia Vechelde",
-      "warteliste": "1"
+      "warteliste": "-"
     },
     "826585": {
       "altersklasse": "Damen/Herren",
@@ -580,7 +580,7 @@
       "region": "Oldenburg-Stadt",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=840840&date=2026-10-01",
       "verein": "SG Schwarz-Weiß Oldenburg",
-      "warteliste": "4"
+      "warteliste": "3"
     },
     "840860": {
       "altersklasse": "Damen/Herren",
@@ -895,7 +895,7 @@
     "854182": {
       "altersklasse": "Damen/Herren",
       "date": "Sa. 31.10.2026 20:30 Uhr",
-      "kapazitaet": "5/16",
+      "kapazitaet": "4/16",
       "meldeschluss": "2026-10-30 18:00",
       "region": "Lüneburg",
       "url": "https://ttvn.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/tournamentCalendarDetail?circuit=TTVN-Race+26&federation=TTVN&tournament=854182&date=2026-10-01",
@@ -925,7 +925,7 @@
       "watched_present": []
     },
     "826584": {
-      "all_participants_count": 17,
+      "all_participants_count": 16,
       "watched_present": []
     },
     "826585": {
@@ -1064,7 +1064,7 @@
       "watched_present": []
     },
     "840840": {
-      "all_participants_count": 17,
+      "all_participants_count": 16,
       "watched_present": []
     },
     "840860": {
@@ -1195,7 +1195,7 @@
       "watched_present": []
     },
     "854182": {
-      "all_participants_count": 11,
+      "all_participants_count": 12,
       "watched_present": []
     }
   }
